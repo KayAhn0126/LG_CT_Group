@@ -11,7 +11,5 @@
 | 5/4 | 그래프 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | | | |
 | 5/5 | 이분 탐색 | [수 찾기](https://www.acmicpc.net/problem/1920) | | | |
 | | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+
+![](https://i.imgur.com/kaVFVsw.gif)
