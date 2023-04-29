@@ -12,4 +12,4 @@
 | 5/5 | 이분 탐색 | [수 찾기](https://www.acmicpc.net/problem/1920) | | | |
 | | | | | | |
 
-![](https://i.imgur.com/kaVFVsw.gif)
+![ezgif com-resize](https://user-images.githubusercontent.com/40224884/235282241-be54a4a9-341d-417d-bf7f-d830a82f162d.gif)
