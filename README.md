@@ -39,15 +39,4 @@
 | 5/13 | 구현 | [로봇청소기](https://www.acmicpc.net/problem/14503) | | | |
 | 5/14 | 그래프 | [인구이동](https://www.acmicpc.net/problem/16234) | | | |
 
-
-
-
-https://www.acmicpc.net/problem/2559
-
-
-
-
-
-
-
 ![ezgif com-resize](https://user-images.githubusercontent.com/40224884/235282241-be54a4a9-341d-417d-bf7f-d830a82f162d.gif)
