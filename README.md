@@ -27,7 +27,7 @@
 | 5/1 | 구현 | [NBA 농구](https://www.acmicpc.net/problem/2852) | 🔥 | 🔥 | |
 | 5/2 | 그리디 | [사과 담기 게임](https://www.acmicpc.net/problem/2828) | 🔥 | 🔥 | |
 | 5/3 | 스택 | [괄호](https://www.acmicpc.net/problem/9012) | 🔥 | 🔥 | |
-| 5/4 | 그래프 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🔥 | | |
+| 5/4 | 그래프 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🔥 | 🔥 | |
 | 5/5 | 이분 탐색 | [수 찾기](https://www.acmicpc.net/problem/1920) | 🔥 | | |
 | 5/6 | 브루트포스 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | | | |
 | 5/7 | 그래프 | [유기농배추](https://www.acmicpc.net/problem/1012) | | | |
@@ -40,3 +40,5 @@
 | 5/14 | 그래프 | [인구이동](https://www.acmicpc.net/problem/16234) | | | |
 
 ![ezgif com-resize](https://user-images.githubusercontent.com/40224884/235282241-be54a4a9-341d-417d-bf7f-d830a82f162d.gif)
+
+
