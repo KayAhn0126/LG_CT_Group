@@ -28,9 +28,9 @@
 | 5/2 | 그리디 | [사과 담기 게임](https://www.acmicpc.net/problem/2828) | 🔥 | 🔥 | |
 | 5/3 | 스택 | [괄호](https://www.acmicpc.net/problem/9012) | 🔥 | 🔥 | |
 | 5/4 | 그래프 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🔥 | 🔥 | |
-| 5/5 | 이분 탐색 | [수 찾기](https://www.acmicpc.net/problem/1920) | 🔥 | | |
-| 5/6 | 브루트포스 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | | | |
-| 5/7 | 그래프 | [유기농배추](https://www.acmicpc.net/problem/1012) | | | |
+| 5/5 | 이분 탐색 | [수 찾기](https://www.acmicpc.net/problem/1920) | 🔥 | 🔥 | |
+| 5/6 | 브루트포스 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | | 🔥 | |
+| 5/7 | 그래프 | [유기농배추](https://www.acmicpc.net/problem/1012) | | 🔥 | |
 | 5/8 | 그래프 | [토마토](https://www.acmicpc.net/problem/7576) | | | |
 | 5/9 | 그래프 | [치즈](https://www.acmicpc.net/problem/2636) | | | |
 | 5/10 | 브루트포스 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | | | |
