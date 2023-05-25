@@ -1,4 +1,8 @@
+###### tags: `Category`
+
 # LG_CT_Group
+
+## 🍎 BOJ
 | 날짜 | 키워드 | 풀어보기 | Sunny | Jimin | 남졍 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 기본 문제 | 구현 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | | 🔥 | 🔥 |
@@ -36,7 +40,7 @@
 | 5/10 | 브루트포스 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 📖 | 🔥 | |
 | 5/11 | 재귀 | [쿼드트리](https://www.acmicpc.net/problem/1992) | | 🔥 | |
 | 5/12 | 누적합 | [수열](https://www.acmicpc.net/problem/2559) | | 🔥 | |
-| 5/13 | 구현 | [로봇청소기](https://www.acmicpc.net/problem/14503) | | | |
+| 5/13 | 구현 | [로봇청소기](https://www.acmicpc.net/problem/14503) | | 🔥 | |
 | 5/14 | 그래프 | [인구이동](https://www.acmicpc.net/problem/16234) | | | |
 | 5/15 | 그리디 | [회의실 배정](https://www.acmicpc.net/problem/1931) | | | |
 | 5/16 | 트리 | [트리](https://www.acmicpc.net/problem/1068) | | | |
@@ -50,6 +54,11 @@
 | 5/24 | 이분탐색 | [나무 자르기](https://www.acmicpc.net/problem/2805) | | | |
 | 5/25 | 그래프 | [치킨배달](https://www.acmicpc.net/problem/15686) | | | |
 
+## 🍎 CS_OS
+| 날짜 | 제목 |
+| :-: | :-: |
+| 5/24 ~ 5/25 | 강의 소개, Introduction to Operating Systems |
+| 5/26 ~ 5/27 | System Structure & Program Execution 1 |
 
 ![ezgif com-resize](https://user-images.githubusercontent.com/40224884/235282241-be54a4a9-341d-417d-bf7f-d830a82f162d.gif)
 
