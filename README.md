@@ -1,5 +1,3 @@
-###### tags: `Category`
-
 # LG_CT_Group
 
 ## 🍎 BOJ
@@ -37,11 +35,11 @@
 | 5/7 | 그래프 | [유기농배추](https://www.acmicpc.net/problem/1012) | 🔥 | 🔥 | |
 | 5/8 | 그래프 | [토마토](https://www.acmicpc.net/problem/7576) | 🔥 | 🔥 | |
 | 5/9 | 그래프 | [치즈](https://www.acmicpc.net/problem/2636) | 🔥 | 🔥 | |
-| 5/10 | 브루트포스 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 📖 | 🔥 | |
-| 5/11 | 재귀 | [쿼드트리](https://www.acmicpc.net/problem/1992) | | 🔥 | |
+| 5/10 | 브루트포스 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 🔥 | 🔥 | |
+| 5/11 | 재귀 | [쿼드트리](https://www.acmicpc.net/problem/1992) | 📖| 🔥 | |
 | 5/12 | 누적합 | [수열](https://www.acmicpc.net/problem/2559) | | 🔥 | |
 | 5/13 | 구현 | [로봇청소기](https://www.acmicpc.net/problem/14503) | | 🔥 | |
-| 5/14 | 그래프 | [인구이동](https://www.acmicpc.net/problem/16234) | | | |
+| 5/14 | 그래프 | [인구이동](https://www.acmicpc.net/problem/16234) | | 📖 | |
 | 5/15 | 그리디 | [회의실 배정](https://www.acmicpc.net/problem/1931) | | | |
 | 5/16 | 트리 | [트리](https://www.acmicpc.net/problem/1068) | | | |
 | 5/17 | 그래프 | [보물섬](https://www.acmicpc.net/problem/2589) | | | |
