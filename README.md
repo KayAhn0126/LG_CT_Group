@@ -199,8 +199,8 @@
 ## 🍎 Programmers Kakao
 | 연도 | 풀어보기 | Sunny | Jimin | 남졍 | Kay|
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 2019 겨울 인턴십 | [크레인 인형뽑기 게임 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | | | | |
-| 2019 겨울 인턴십 | [튜플 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | | | | |
+| 2019 겨울 인턴십 | [크레인 인형뽑기 게임 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | | | | 🔥 |
+| 2019 겨울 인턴십 | [튜플 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | | | | 🔥 |
 | 2019 겨울 인턴십 | [불량 사용자 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | | | | |
 | 2019 겨울 인턴십 | [징검다리 건너기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | | | | |
 | 2019 겨울 인턴십 | [호텔 방 배정 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/64063) | | | | |
@@ -259,7 +259,7 @@
 | 2022 Kakao Blind | [사라지는 발판 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/92345) | | | | |
 | 2022 Kakao Blind | [파괴되지 않은 건물 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | | | | |
 | 2022 Kakao Blind | [양과 늑대 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | | | | |
-| 2023 Kakao Blind | [개인정보 수집 유효기간 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | | | | |
+| 2023 Kakao Blind | [개인정보 수집 유효기간 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | | 🔥 | | 🔥 |
 | 2023 Kakao Blind | [택배 배달과 수거하기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | | | | |
 | 2023 Kakao Blind | [이모티콘 할인행사 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | | | | |
 | 2023 Kakao Blind | [표현 가능한 이진트리 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/150367) | | | | |
@@ -274,5 +274,3 @@
 | 5/26 ~ 5/27 | System Structure & Program Execution 1 |
 
 ![ezgif com-resize](https://user-images.githubusercontent.com/40224884/235282241-be54a4a9-341d-417d-bf7f-d830a82f162d.gif)
-
-
