@@ -54,6 +54,77 @@
 | 이분탐색 | [나무 자르기](https://www.acmicpc.net/problem/2805) | | | |
 | 그래프 | [치킨배달](https://www.acmicpc.net/problem/15686) | | | |
 
+## 🍎 Programmers Kakao
+| 연도 | 풀어보기 | Sunny | Jimin | 남졍 | Kay|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 2019 겨울 인턴십 | [크레인 인형뽑기 게임 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | | | | |
+| 2019 겨울 인턴십 | [튜플 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | | | | |
+| 2019 겨울 인턴십 | [불량 사용자 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | | | | |
+| 2019 겨울 인턴십 | [징검다리 건너기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | | | | |
+| 2019 겨울 인턴십 | [호텔 방 배정 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/64063) | | | | |
+| 2020 인턴십 | [키패드 누르기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | | | | |
+| 2020 인턴십 | [수식 최대화 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | | | | |
+| 2020 인턴십 | [보석 쇼핑 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | | | | |
+| 2020 인턴십 | [경주로 건설 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | | | | |
+| 2020 인턴십 | [동굴 탐험 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/67260) | | | | |
+| 2021 채용연계형 인턴십 | [숫자 문자열과 영단어 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | | | | |
+| 2021 채용연계형 인턴십 | [거리두기 확인하기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | | | | |
+| 2021 채용연계형 인턴십 | [표 편집 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/81303) | | | | |
+| 2021 채용연계형 인턴십 | [미로 탈출 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/81304) | | | | |
+| 2021 채용연계형 인턴십 | [시험장 나누기 LV5](https://school.programmers.co.kr/learn/courses/30/lessons/81305) | | | | |
+| 2022 인턴십 | [성격 유형 검사하기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | | | | |
+| 2022 인턴십 | [두 큐 합 같게 만들기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | | | | |
+| 2022 인턴십 | [등산코스 정하기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | | | | |
+| 2022 인턴십 | [코딩 테스트 공부 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/118668) | | | | |
+| 2022 인턴십 | [행렬과 연산 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/118670) | | | | |
+| 2018 Kakao Blind | [다트게임 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | | | | |
+| 2018 Kakao Blind | [비밀 지도 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | | | | |
+| 2018 Kakao Blind | [캐시 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | | | | |
+| 2018 Kakao Blind | [프렌즈4블록 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | | | | |
+| 2018 Kakao Blind | [뉴스 클러스터링 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | | | | |
+| 2018 Kakao Blind | [n진수 게임 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | | | | |
+| 2018 Kakao Blind | [파일명 정렬 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | | | | |
+| 2018 Kakao Blind | [압축 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | | | | |
+| 2018 Kakao Blind | [방금그곡 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | | | | |
+| 2018 Kakao Blind | [셔틀버스 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | | | | |
+| 2018 Kakao Blind | [추석 트래픽 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/17676) | | | | |
+| 2018 Kakao Blind | [자동완성 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/17685) | | | | |
+| 2019 Kakao Blind | [실패율 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | | | | |
+| 2019 Kakao Blind | [후보키 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | | | | |
+| 2019 Kakao Blind | [오픈채팅방 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | | | | |
+| 2019 Kakao Blind | [매칭 점수 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/42893) | | | | |
+| 2019 Kakao Blind | [길 찾기 게임 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | | | | |
+| 2019 Kakao Blind | [블록 게임 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/42894) | | | | |
+| 2019 Kakao Blind | [무지의 먹방 라이브 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/42891) | | | | |
+| 2020 Kakao Blind | [괄호 변환 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | | | | |
+| 2020 Kakao Blind | [문자열 압축 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | | | | |
+| 2020 Kakao Blind | [블록 이동하기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/60063) | | | | |
+| 2020 Kakao Blind | [외벽 점검 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/60062) | | | | |
+| 2020 Kakao Blind | [기둥과 보 설치 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/60061) | | | | |
+| 2020 Kakao Blind | [자물쇠와 열쇠 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/60059) | | | | |
+| 2020 Kakao Blind | [가사 검색 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/60060) | | | | |
+| 2021 Kakao Blind | [신규 아이디 추천 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | | | | |
+| 2021 Kakao Blind | [순위 검색 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | | | | |
+| 2021 Kakao Blind | [메뉴 리뉴얼 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | | | | |
+| 2021 Kakao Blind | [카드 짝 맞추기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/72415) | | | | |
+| 2021 Kakao Blind | [광고 삽입 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/72414) | | | | |
+| 2021 Kakao Blind | [합승 택시 요금 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | | | | |
+| 2021 Kakao Blind | [매출 하락 최소화 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/72416) | | | | |
+| 2022 Kakao Blind | [신고 결과 받기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | | | | |
+| 2022 Kakao Blind | [양궁대회 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | | | | |
+| 2022 Kakao Blind | [주차 요금 계산 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | | | | |
+| 2022 Kakao Blind | [k진수에서 소수 개수 구하기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | | | | |
+| 2022 Kakao Blind | [사라지는 발판 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/92345) | | | | |
+| 2022 Kakao Blind | [파괴되지 않은 건물 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | | | | |
+| 2022 Kakao Blind | [양과 늑대 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | | | | |
+| 2023 Kakao Blind | [개인정보 수집 유효기간 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | | | | |
+| 2023 Kakao Blind | [택배 배달과 수거하기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | | | | |
+| 2023 Kakao Blind | [이모티콘 할인행사 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | | | | |
+| 2023 Kakao Blind | [표현 가능한 이진트리 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/150367) | | | | |
+| 2023 Kakao Blind | [표 병합 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/150366) | | | | |
+| 2023 Kakao Blind | [미로 탈출 명령어 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/150365) | | | | |
+| 2023 Kakao Blind | [1,2,3 떨어트리기 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/150364) | | | | |
+
 ## 🍎 CS_OS
 | 날짜 | 제목 |
 | :-: | :-: |
