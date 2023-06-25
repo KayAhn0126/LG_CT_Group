@@ -77,7 +77,7 @@
 | [스타트링크](https://www.acmicpc.net/problem/5014) | | | |
 | [적록색약](https://www.acmicpc.net/problem/10026) | | | |
 | [토마토](https://www.acmicpc.net/problem/7576) | 🔥 | 🔥 | |
-| [토마토 with 3차원배열](https://www.acmicpc.net/problem/7569) | | | |
+| [토마토 with 3차원배열](https://www.acmicpc.net/problem/7569) | | 🔥 | |
 | [연구소](https://www.acmicpc.net/problem/14502) | | | |
 | [연구소 2](https://www.acmicpc.net/problem/17141) | | | |
 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | | 🔥 | |
@@ -85,6 +85,7 @@
 ### 📖 그래프 - Hard
 | 풀어보기 | Sunny | Jimin | 남졍 |
 | :-: | :-: | :-: | :-: |
+| [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | | 🔥 | |
 | [치즈](https://www.acmicpc.net/problem/2636) | 🔥 | 🔥 | |
 | [인구이동](https://www.acmicpc.net/problem/16234) | | 🔥 | |
 | [불!](https://www.acmicpc.net/problem/4179) | | | |
@@ -204,7 +205,7 @@
 | 2019 겨울 인턴십 | [불량 사용자 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | | | | |
 | 2019 겨울 인턴십 | [징검다리 건너기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | | | | |
 | 2019 겨울 인턴십 | [호텔 방 배정 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/64063) | | | | |
-| 2020 인턴십 | [키패드 누르기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | | | | |
+| 2020 인턴십 | [키패드 누르기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | | | | 🔥 |
 | 2020 인턴십 | [수식 최대화 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | | | | |
 | 2020 인턴십 | [보석 쇼핑 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | | | | |
 | 2020 인턴십 | [경주로 건설 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | | | | |
