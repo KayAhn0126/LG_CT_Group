@@ -211,7 +211,7 @@
 | 2019 겨울 인턴십 | [징검다리 건너기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | | | | |
 | 2019 겨울 인턴십 | [호텔 방 배정 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/64063) | | | | |
 | 2020 인턴십 | [키패드 누르기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | | | | 🔥 |
-| 2020 인턴십 | [수식 최대화 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | | | | |
+| 2020 인턴십 | [수식 최대화 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | | | | 🔥 |
 | 2020 인턴십 | [보석 쇼핑 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | | | | |
 | 2020 인턴십 | [경주로 건설 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | | | | |
 | 2020 인턴십 | [동굴 탐험 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/67260) | | | | |
