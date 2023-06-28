@@ -215,12 +215,12 @@
 | 2020 인턴십 | [보석 쇼핑 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | | | | |
 | 2020 인턴십 | [경주로 건설 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | | | | |
 | 2020 인턴십 | [동굴 탐험 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/67260) | | | | |
-| 2021 채용연계형 인턴십 | [숫자 문자열과 영단어 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | | | | |
-| 2021 채용연계형 인턴십 | [거리두기 확인하기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | | | | |
+| 2021 채용연계형 인턴십 | [숫자 문자열과 영단어 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | | | | 🔥 |
+| 2021 채용연계형 인턴십 | [거리두기 확인하기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | | | | 🔥 |
 | 2021 채용연계형 인턴십 | [표 편집 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/81303) | | | | |
 | 2021 채용연계형 인턴십 | [미로 탈출 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/81304) | | | | |
 | 2021 채용연계형 인턴십 | [시험장 나누기 LV5](https://school.programmers.co.kr/learn/courses/30/lessons/81305) | | | | |
-| 2022 인턴십 | [성격 유형 검사하기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | | | | |
+| 2022 인턴십 | [성격 유형 검사하기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | | | | 🔥 |
 | 2022 인턴십 | [두 큐 합 같게 만들기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | | | | |
 | 2022 인턴십 | [등산코스 정하기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | | | | |
 | 2022 인턴십 | [코딩 테스트 공부 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/118668) | | | | |
