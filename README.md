@@ -221,13 +221,13 @@
 | 2021 채용연계형 인턴십 | [미로 탈출 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/81304) | | | | |
 | 2021 채용연계형 인턴십 | [시험장 나누기 LV5](https://school.programmers.co.kr/learn/courses/30/lessons/81305) | | | | |
 | 2022 인턴십 | [성격 유형 검사하기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | | | | 🔥 |
-| 2022 인턴십 | [두 큐 합 같게 만들기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | | | | |
+| 2022 인턴십 | [두 큐 합 같게 만들기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | | | | 🔥 |
 | 2022 인턴십 | [등산코스 정하기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | | | | |
 | 2022 인턴십 | [코딩 테스트 공부 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/118668) | | | | |
 | 2022 인턴십 | [행렬과 연산 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/118670) | | | | |
-| 2018 Kakao Blind | [다트게임 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | | | | |
-| 2018 Kakao Blind | [비밀 지도 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | | | | |
-| 2018 Kakao Blind | [캐시 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | | | | |
+| 2018 Kakao Blind | [다트게임 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | | | | 🔥 |
+| 2018 Kakao Blind | [비밀 지도 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | | | | 🔥 |
+| 2018 Kakao Blind | [캐시 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | | | | 🔥 |
 | 2018 Kakao Blind | [프렌즈4블록 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | | | | |
 | 2018 Kakao Blind | [뉴스 클러스터링 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | | | | |
 | 2018 Kakao Blind | [n진수 게임 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | | | | |
