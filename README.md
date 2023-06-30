@@ -193,7 +193,7 @@
 ## 🍎 BOJ - Recursion
 | 풀어보기 | Sunny | Jimin | 남졍 |
 | :-: | :-: | :-: | :-: |
-| [쿼드트리](https://www.acmicpc.net/problem/1992) | | 🔥 | |
+| [쿼드트리](https://www.acmicpc.net/problem/1992) | 🔥 | 🔥 | |
 | [종이의 개수](https://www.acmicpc.net/problem/1780) | | | |
 
 ## 🍎 BOJ - LIS
@@ -228,7 +228,7 @@
 | 2018 Kakao Blind | [다트게임 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | | | | 🔥 |
 | 2018 Kakao Blind | [비밀 지도 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | | | | 🔥 |
 | 2018 Kakao Blind | [캐시 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | | | | 🔥 |
-| 2018 Kakao Blind | [프렌즈4블록 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | | | | |
+| 2018 Kakao Blind | [프렌즈4블록 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | | | | 🔥 |
 | 2018 Kakao Blind | [뉴스 클러스터링 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | | | | |
 | 2018 Kakao Blind | [n진수 게임 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | | | | |
 | 2018 Kakao Blind | [파일명 정렬 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | | | | |
