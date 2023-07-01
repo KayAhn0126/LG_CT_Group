@@ -229,9 +229,9 @@
 | 2018 Kakao Blind | [비밀 지도 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | | | | 🔥 |
 | 2018 Kakao Blind | [캐시 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | | | | 🔥 |
 | 2018 Kakao Blind | [프렌즈4블록 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | | | | 🔥 |
-| 2018 Kakao Blind | [뉴스 클러스터링 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | | | | |
-| 2018 Kakao Blind | [n진수 게임 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | | | | |
-| 2018 Kakao Blind | [파일명 정렬 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | | | | |
+| 2018 Kakao Blind | [뉴스 클러스터링 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | | | | 🔥 |
+| 2018 Kakao Blind | [n진수 게임 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | | | | 🔥 |
+| 2018 Kakao Blind | [파일명 정렬 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | | | | 🔥 |
 | 2018 Kakao Blind | [압축 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | | | | |
 | 2018 Kakao Blind | [방금그곡 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | | | | |
 | 2018 Kakao Blind | [셔틀버스 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | | | | |
