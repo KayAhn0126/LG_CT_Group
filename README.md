@@ -91,7 +91,7 @@
 | [불!](https://www.acmicpc.net/problem/4179) | | | |
 | [뮤탈리스크](https://www.acmicpc.net/problem/12869) | | | |
 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | | 🔥 | |
-| [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | | | |
+| [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | | 🔥 | |
 | [컴백홈](https://www.acmicpc.net/problem/1189) | | | |
 | [거짓말](https://www.acmicpc.net/problem/1043) | | | |
 | [알파벳](https://www.acmicpc.net/problem/1987) | | | |
@@ -205,7 +205,7 @@
 ## 🍎 Programmers Kakao
 | 연도 | 풀어보기 | Sunny | Jimin | 남졍 | Kay|
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 2019 겨울 인턴십 | [크레인 인형뽑기 게임 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | | | | 🔥 |
+| 2019 겨울 인턴십 | [크레인 인형뽑기 게임 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | 🔥 | | | 🔥 |
 | 2019 겨울 인턴십 | [튜플 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | | | | 🔥 |
 | 2019 겨울 인턴십 | [불량 사용자 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | | | | |
 | 2019 겨울 인턴십 | [징검다리 건너기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | | | | |
@@ -232,12 +232,12 @@
 | 2018 Kakao Blind | [뉴스 클러스터링 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | | | | 🔥 |
 | 2018 Kakao Blind | [n진수 게임 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | | | | 🔥 |
 | 2018 Kakao Blind | [파일명 정렬 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | | | | 🔥 |
-| 2018 Kakao Blind | [압축 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | | | | |
-| 2018 Kakao Blind | [방금그곡 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | | | | |
+| 2018 Kakao Blind | [압축 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | | | | 🔥 |
+| 2018 Kakao Blind | [방금그곡 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | | | | 🔥 |
 | 2018 Kakao Blind | [셔틀버스 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | | | | |
 | 2018 Kakao Blind | [추석 트래픽 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/17676) | | | | |
 | 2018 Kakao Blind | [자동완성 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/17685) | | | | |
-| 2019 Kakao Blind | [실패율 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | | | | |
+| 2019 Kakao Blind | [실패율 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | | | | 🔥 |
 | 2019 Kakao Blind | [후보키 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | | | | |
 | 2019 Kakao Blind | [오픈채팅방 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | | | | |
 | 2019 Kakao Blind | [매칭 점수 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/42893) | | | | |
