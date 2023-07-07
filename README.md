@@ -238,20 +238,20 @@
 | 2018 Kakao Blind | [추석 트래픽 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/17676) | | | | |
 | 2018 Kakao Blind | [자동완성 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/17685) | | | | |
 | 2019 Kakao Blind | [실패율 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | | | | 🔥 |
-| 2019 Kakao Blind | [후보키 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | | | | |
-| 2019 Kakao Blind | [오픈채팅방 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | | | | |
+| 2019 Kakao Blind | [후보키 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | | | | 🔥 |
+| 2019 Kakao Blind | [오픈채팅방 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | | | | 🔥 |
 | 2019 Kakao Blind | [매칭 점수 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/42893) | | | | |
 | 2019 Kakao Blind | [길 찾기 게임 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | | | | |
 | 2019 Kakao Blind | [블록 게임 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/42894) | | | | |
 | 2019 Kakao Blind | [무지의 먹방 라이브 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/42891) | | | | |
-| 2020 Kakao Blind | [괄호 변환 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | | | | |
-| 2020 Kakao Blind | [문자열 압축 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | | | | |
+| 2020 Kakao Blind | [괄호 변환 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | | | | 🔥 |
+| 2020 Kakao Blind | [문자열 압축 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | | | | 🔥 |
 | 2020 Kakao Blind | [블록 이동하기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/60063) | | | | |
 | 2020 Kakao Blind | [외벽 점검 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/60062) | | | | |
 | 2020 Kakao Blind | [기둥과 보 설치 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/60061) | | | | |
 | 2020 Kakao Blind | [자물쇠와 열쇠 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/60059) | | | | |
 | 2020 Kakao Blind | [가사 검색 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/60060) | | | | |
-| 2021 Kakao Blind | [신규 아이디 추천 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | | | | |
+| 2021 Kakao Blind | [신규 아이디 추천 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | | | | 🔥 |
 | 2021 Kakao Blind | [순위 검색 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | | | | |
 | 2021 Kakao Blind | [메뉴 리뉴얼 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | | | | |
 | 2021 Kakao Blind | [카드 짝 맞추기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/72415) | | | | |
