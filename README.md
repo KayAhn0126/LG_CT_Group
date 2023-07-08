@@ -1,7 +1,7 @@
 # LG_CT_Group
+<img src = './cutefriend.png' height= 500>
 
 ## 🍎 BOJ - 구현
-### 📖 구현 - Easy
 | 풀어보기 | Sunny | Jimin | 남졍 |
 | :-: | :-: | :-: | :-: |
 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | 🔥 | 🔥 | 🔥 |
@@ -28,20 +28,12 @@
 | [좌표 압축](https://www.acmicpc.net/problem/18870) | | | |
 | [진법 변환](https://www.acmicpc.net/problem/2745) | | | |
 | [진법 변환2](https://www.acmicpc.net/problem/11005) | | | |
-
-### 📖 구현 - Normal
-| 풀어보기 | Sunny | Jimin | 남졍 |
-| :-: | :-: | :-: | :-: |
 | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | 🔥 | 🔥 | |
 | [빈도 정렬](https://www.acmicpc.net/problem/2910) | | | |
 | [수학 숙제](https://www.acmicpc.net/problem/2870) | | | |
 | [NBA 농구](https://www.acmicpc.net/problem/2852) | 🔥 | 🔥 | |
 | [통계학](https://www.acmicpc.net/problem/2108) | | | |
 | [MVP다이아몬드(Easy)](https://www.acmicpc.net/problem/20413) | | | |
-
-### 📖 구현 - Hard
-| 풀어보기 | Sunny | Jimin | 남졍 |
-| :-: | :-: | :-: | :-: |
 | [로봇청소기](https://www.acmicpc.net/problem/14503) | | 🔥 | |
 | [톱니바퀴](https://www.acmicpc.net/problem/14891) | | | |
 | [톱니바퀴2](https://www.acmicpc.net/problem/15662) | | | |
@@ -50,9 +42,7 @@
 | [문자해독](https://www.acmicpc.net/problem/1593) | | | |
 | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | | | |
 
-
 ## 🍎 BOJ - 그래프
-### 📖 그래프 - Easy
 | 풀어보기 | Sunny | Jimin | 남졍 |
 | :-: | :-: | :-: | :-: |
 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🔥 | 🔥 | |
@@ -63,10 +53,6 @@
 | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | | | |
 | [바이러스](https://www.acmicpc.net/problem/2606) | 🔥 | | |
 | [음식물 피하기](https://www.acmicpc.net/problem/1743) | | | |
-
-### 📖 그래프 - Normal
-| 풀어보기 | Sunny | Jimin | 남졍 |
-| :-: | :-: | :-: | :-: |
 | [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479) | | | |
 | [알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480) | | | |
 | [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) | | | |
@@ -81,10 +67,6 @@
 | [연구소](https://www.acmicpc.net/problem/14502) | | | |
 | [연구소 2](https://www.acmicpc.net/problem/17141) | | | |
 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | 🔥 | 🔥 | |
-
-### 📖 그래프 - Hard
-| 풀어보기 | Sunny | Jimin | 남졍 |
-| :-: | :-: | :-: | :-: |
 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | | 🔥 | |
 | [치즈](https://www.acmicpc.net/problem/2636) | 🔥 | 🔥 | |
 | [인구이동](https://www.acmicpc.net/problem/16234) | | 🔥 | |
@@ -104,7 +86,6 @@
 | [숨바꼭질4](https://www.acmicpc.net/problem/13913) | | | |
 
 ## 🍎 BOJ - 브루트포스
-### 📖 브루트포스 - Easy
 | 풀어보기 | Sunny | Jimin | 남졍 |
 | :-: | :-: | :-: | :-: |
 | [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) | | | |
@@ -113,41 +94,23 @@
 | [분해합](https://www.acmicpc.net/problem/2231) | 🔥 | | |
 | [덩치](https://www.acmicpc.net/problem/7568) | | | |
 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | 🔥 | 🔥 | |
-
-### 📖 브루트포스 - Normal
-| 풀어보기 | Sunny | Jimin | 남졍 |
-| :-: | :-: | :-: | :-: |
 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 🔥 | 🔥 | |
 | [치킨 배달](https://www.acmicpc.net/problem/15686) | | | |
-
-### 📖 브루트포스 - Hard
-| 풀어보기 | Sunny | Jimin | 남졍 |
-| :-: | :-: | :-: | :-: |
 | [테트로미노](https://www.acmicpc.net/problem/14500) | | | |
 | [리모컨](https://www.acmicpc.net/problem/1107) | | | |
 | [마인크래프트](https://www.acmicpc.net/problem/18111) | | | |
 | [부등호](https://www.acmicpc.net/problem/2529) | | | |
 
 ## 🍎 BOJ - 그리디
-### 📖 그리디 - Easy
 | 풀어보기 | Sunny | Jimin | 남졍 |
 | :-: | :-: | :-: | :-: |
 | [회의실 배정](https://www.acmicpc.net/problem/1931) | 🔥 | | |
 | [A와 B](https://www.acmicpc.net/problem/12904) | | | |
-
-### 📖 그리디 - Normal
-| 풀어보기 | Sunny | Jimin | 남졍 |
-| :-: | :-: | :-: | :-: |
 | [사과 담기 게임](https://www.acmicpc.net/problem/2828) | 🔥 | 🔥 | |
 | [선 긋기](https://www.acmicpc.net/problem/2170) | | | |
-
-### 📖 그리디 - Hard
-| 풀어보기 | Sunny | Jimin | 남졍 |
-| :-: | :-: | :-: | :-: |
 | [오큰수](https://www.acmicpc.net/problem/17298) | | | |
 
 ## 🍎 BOJ - Dynamic Programming
-### 📖 DP - Easy
 | 풀어보기 | Sunny | Jimin | 남졍 |
 | :-: | :-: | :-: | :-: |
 | [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | | | |
@@ -158,15 +121,7 @@
 | [신나는 함수 실행](https://www.acmicpc.net/problem/9184) | | | |
 | [파도반 수열](https://www.acmicpc.net/problem/9461) | | | |
 | [연속합](https://www.acmicpc.net/problem/1912) | | | |
-
-### 📖 DP - Normal
-| 풀어보기 | Sunny | Jimin | 남졍 |
-| :-: | :-: | :-: | :-: |
 | [1로 만들기 2](https://www.acmicpc.net/problem/12852) | | | |
-
-### 📖 DP - Hard
-| 풀어보기 | Sunny | Jimin | 남졍 |
-| :-: | :-: | :-: | :-: |
 | [퇴사](https://www.acmicpc.net/problem/14501) | 🔥 | | |
 | [계단 오르기](https://www.acmicpc.net/problem/2579) | | | |
 | [RGB거리](https://www.acmicpc.net/problem/1149) | | | |
@@ -252,7 +207,7 @@
 | 2020 Kakao Blind | [자물쇠와 열쇠 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/60059) | | | | |
 | 2020 Kakao Blind | [가사 검색 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/60060) | | | | |
 | 2021 Kakao Blind | [신규 아이디 추천 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | | | | 🔥 |
-| 2021 Kakao Blind | [순위 검색 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | | | | |
+| 2021 Kakao Blind | [순위 검색 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | | | | 🔥 |
 | 2021 Kakao Blind | [메뉴 리뉴얼 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | | | | |
 | 2021 Kakao Blind | [카드 짝 맞추기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/72415) | | | | |
 | 2021 Kakao Blind | [광고 삽입 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/72414) | | | | |
@@ -272,11 +227,3 @@
 | 2023 Kakao Blind | [표 병합 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/150366) | | | | |
 | 2023 Kakao Blind | [미로 탈출 명령어 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/150365) | | | | |
 | 2023 Kakao Blind | [1,2,3 떨어트리기 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/150364) | | | | |
-
-## 🍎 CS_OS
-| 날짜 | 제목 |
-| :-: | :-: |
-| 5/24 ~ 5/25 | 강의 소개, Introduction to Operating Systems |
-| 5/26 ~ 5/27 | System Structure & Program Execution 1 |
-
-![ezgif com-resize](https://user-images.githubusercontent.com/40224884/235282241-be54a4a9-341d-417d-bf7f-d830a82f162d.gif)
