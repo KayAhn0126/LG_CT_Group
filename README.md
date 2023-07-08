@@ -1,5 +1,5 @@
 # LG_CT_Group
-<img src = './cutefriend.png' height= 500>
+<img src = './cutefriend.png' height= 300>
 
 ## 🍎 BOJ - 구현
 | 풀어보기 | Sunny | Jimin | 남졍 |
