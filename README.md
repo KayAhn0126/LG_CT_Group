@@ -67,7 +67,7 @@
 | [연구소](https://www.acmicpc.net/problem/14502) | | | |
 | [연구소 2](https://www.acmicpc.net/problem/17141) | | | |
 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | 🔥 | 🔥 | |
-| [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | | 🔥 | |
+| [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | 🔥 | 🔥 | |
 | [치즈](https://www.acmicpc.net/problem/2636) | 🔥 | 🔥 | |
 | [인구이동](https://www.acmicpc.net/problem/16234) | | 🔥 | |
 | [불!](https://www.acmicpc.net/problem/4179) | | | |
@@ -213,7 +213,7 @@
 | 2021 Kakao Blind | [광고 삽입 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/72414) | | | | |
 | 2021 Kakao Blind | [합승 택시 요금 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | | | | |
 | 2021 Kakao Blind | [매출 하락 최소화 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/72416) | | | | |
-| 2022 Kakao Blind | [신고 결과 받기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | | | | |
+| 2022 Kakao Blind | [신고 결과 받기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | | | | 🔥 |
 | 2022 Kakao Blind | [양궁대회 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | | | | |
 | 2022 Kakao Blind | [주차 요금 계산 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | | | | |
 | 2022 Kakao Blind | [k진수에서 소수 개수 구하기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | | | | |
