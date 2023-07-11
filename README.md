@@ -57,10 +57,10 @@
 | [알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480) | | | |
 | [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) | | | |
 | [알고리즘 수업 - 너비 우선 탐색 2](https://www.acmicpc.net/problem/24445) | | | |
-| [안전영역](https://www.acmicpc.net/problem/2468) | 🔥 | | |
+| [안전영역](https://www.acmicpc.net/problem/2468) | 🔥 | 🔥 | |
 | [영역 구하기](https://www.acmicpc.net/problem/2583) | | | |
 | [촌수계산](https://www.acmicpc.net/problem/2644) | 🔥 | 🔥 | |
-| [스타트링크](https://www.acmicpc.net/problem/5014) | 🔥 | | |
+| [스타트링크](https://www.acmicpc.net/problem/5014) | 🔥 | 🔥 | |
 | [적록색약](https://www.acmicpc.net/problem/10026) | | | |
 | [토마토](https://www.acmicpc.net/problem/7576) | 🔥 | 🔥 | |
 | [토마토 with 3차원배열](https://www.acmicpc.net/problem/7569) | 🔥 | 🔥 | |
@@ -78,7 +78,7 @@
 | [거짓말](https://www.acmicpc.net/problem/1043) | | | |
 | [알파벳](https://www.acmicpc.net/problem/1987) | | | |
 | [빙산](https://www.acmicpc.net/problem/2573) | 🔥 | | |
-| [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | | | |
+| [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | | 🔥 | |
 | [주난의 난](https://www.acmicpc.net/problem/14497) | | | |
 | [백조의호수](https://www.acmicpc.net/problem/3197) | | | |
 | [연구소 3](https://www.acmicpc.net/problem/17142) | | | |
@@ -161,7 +161,7 @@
 | 연도 | 풀어보기 | Sunny | Jimin | 남졍 | Kay|
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 2019 겨울 인턴십 | [크레인 인형뽑기 게임 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | 🔥 | | | 🔥 |
-| 2019 겨울 인턴십 | [튜플 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | | | | 🔥 |
+| 2019 겨울 인턴십 | [튜플 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | 🔥 | | | 🔥 |
 | 2019 겨울 인턴십 | [불량 사용자 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | | | | |
 | 2019 겨울 인턴십 | [징검다리 건너기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | | | | |
 | 2019 겨울 인턴십 | [호텔 방 배정 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/64063) | | | | |
@@ -208,15 +208,15 @@
 | 2020 Kakao Blind | [가사 검색 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/60060) | | | | |
 | 2021 Kakao Blind | [신규 아이디 추천 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | | | | 🔥 |
 | 2021 Kakao Blind | [순위 검색 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | | | | 🔥 |
-| 2021 Kakao Blind | [메뉴 리뉴얼 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | | | | |
+| 2021 Kakao Blind | [메뉴 리뉴얼 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | | | | 🔥 |
 | 2021 Kakao Blind | [카드 짝 맞추기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/72415) | | | | |
 | 2021 Kakao Blind | [광고 삽입 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/72414) | | | | |
 | 2021 Kakao Blind | [합승 택시 요금 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | | | | |
 | 2021 Kakao Blind | [매출 하락 최소화 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/72416) | | | | |
 | 2022 Kakao Blind | [신고 결과 받기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | | | | 🔥 |
+| 2022 Kakao Blind | [주차 요금 계산 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | | | | 🔥 |
+| 2022 Kakao Blind | [k진수에서 소수 개수 구하기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | | | | 🔥 |
 | 2022 Kakao Blind | [양궁대회 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | | | | |
-| 2022 Kakao Blind | [주차 요금 계산 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | | | | |
-| 2022 Kakao Blind | [k진수에서 소수 개수 구하기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | | | | |
 | 2022 Kakao Blind | [사라지는 발판 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/92345) | | | | |
 | 2022 Kakao Blind | [파괴되지 않은 건물 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | | | | |
 | 2022 Kakao Blind | [양과 늑대 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | | | | |
