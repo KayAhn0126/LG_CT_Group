@@ -30,7 +30,7 @@
 | [진법 변환2](https://www.acmicpc.net/problem/11005) | | | |
 | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | 🔥 | 🔥 | |
 | [빈도 정렬](https://www.acmicpc.net/problem/2910) | | | |
-| [수학 숙제](https://www.acmicpc.net/problem/2870) | | | |
+| [수학 숙제](https://www.acmicpc.net/problem/2870) | | 🔥 | |
 | [NBA 농구](https://www.acmicpc.net/problem/2852) | 🔥 | 🔥 | |
 | [통계학](https://www.acmicpc.net/problem/2108) | | | |
 | [MVP다이아몬드(Easy)](https://www.acmicpc.net/problem/20413) | | | |
@@ -46,12 +46,12 @@
 | 풀어보기 | Sunny | Jimin | 남졍 |
 | :-: | :-: | :-: | :-: |
 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🔥 | 🔥 | |
-| [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 🔥 | | |
-| [미로 탐색](https://www.acmicpc.net/problem/2178) | 🔥 | | |
+| [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 🔥 | 🔥 | |
+| [미로 탐색](https://www.acmicpc.net/problem/2178) | 🔥 | 🔥 | |
 | [유기농 배추](https://www.acmicpc.net/problem/1012) | 🔥 | 🔥 | |
 | [보물섬](https://www.acmicpc.net/problem/2589) | | | |
 | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | | | |
-| [바이러스](https://www.acmicpc.net/problem/2606) | 🔥 | | |
+| [바이러스](https://www.acmicpc.net/problem/2606) | 🔥 | 🔥 | |
 | [음식물 피하기](https://www.acmicpc.net/problem/1743) | | | |
 | [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479) | | | |
 | [알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480) | | | |
@@ -77,7 +77,7 @@
 | [컴백홈](https://www.acmicpc.net/problem/1189) | | | |
 | [거짓말](https://www.acmicpc.net/problem/1043) | | | |
 | [알파벳](https://www.acmicpc.net/problem/1987) | | | |
-| [빙산](https://www.acmicpc.net/problem/2573) | 🔥 | | |
+| [빙산](https://www.acmicpc.net/problem/2573) | 🔥 | 🔥 | |
 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | | 🔥 | |
 | [주난의 난](https://www.acmicpc.net/problem/14497) | | | |
 | [백조의호수](https://www.acmicpc.net/problem/3197) | | | |
@@ -88,10 +88,10 @@
 ## 🍎 BOJ - 브루트포스
 | 풀어보기 | Sunny | Jimin | 남졍 |
 | :-: | :-: | :-: | :-: |
-| [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) | | | |
-| [설탕 배달](https://www.acmicpc.net/problem/2839) | 🔥 | | |
+| [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) | | 🔥 | |
+| [설탕 배달](https://www.acmicpc.net/problem/2839) | 🔥 | 🔥 | |
 | [블랙잭](https://www.acmicpc.net/problem/2798) | 🔥 | 🔥 | |
-| [분해합](https://www.acmicpc.net/problem/2231) | 🔥 | | |
+| [분해합](https://www.acmicpc.net/problem/2231) | 🔥 | 🔥 | |
 | [덩치](https://www.acmicpc.net/problem/7568) | | | |
 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | 🔥 | 🔥 | |
 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 🔥 | 🔥 | |
@@ -113,17 +113,17 @@
 ## 🍎 BOJ - Dynamic Programming
 | 풀어보기 | Sunny | Jimin | 남졍 |
 | :-: | :-: | :-: | :-: |
-| [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | | | |
+| [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | | 🔥 | |
 | [피보나치 수 1](https://www.acmicpc.net/problem/24416) | | | |
 | [파스칼의 삼각형](https://www.acmicpc.net/problem/16395) | 🔥 | 🔥 | |
 | [01타일](https://www.acmicpc.net/problem/1904) | | | |
-| [1로 만들기](https://www.acmicpc.net/problem/1463) | 🔥 | | |
+| [1로 만들기](https://www.acmicpc.net/problem/1463) | 🔥 | 🔥 | |
 | [신나는 함수 실행](https://www.acmicpc.net/problem/9184) | | | |
-| [파도반 수열](https://www.acmicpc.net/problem/9461) | | | |
-| [연속합](https://www.acmicpc.net/problem/1912) | | | |
+| [파도반 수열](https://www.acmicpc.net/problem/9461) | | 🔥 | |
+| [연속합](https://www.acmicpc.net/problem/1912) | | 🔥 | |
 | [1로 만들기 2](https://www.acmicpc.net/problem/12852) | | | |
 | [퇴사](https://www.acmicpc.net/problem/14501) | 🔥 | | |
-| [계단 오르기](https://www.acmicpc.net/problem/2579) | | | |
+| [계단 오르기](https://www.acmicpc.net/problem/2579) | | 🔥 | |
 | [RGB거리](https://www.acmicpc.net/problem/1149) | | | |
 | [RGB거리2](https://www.acmicpc.net/problem/17404) | | | |
 
