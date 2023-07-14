@@ -51,8 +51,8 @@
 | [유기농 배추](https://www.acmicpc.net/problem/1012) | 🔥 | 🔥 | | 📖 | | | | | |
 | [보물섬](https://www.acmicpc.net/problem/2589) | | | | 📖 | | | | 🔥 | |
 | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | | | | 📖 | | | | | |
-| [바이러스](https://www.acmicpc.net/problem/2606) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
-| [음식물 피하기](https://www.acmicpc.net/problem/1743) | | | | 📖 | | | | | |
+| [바이러스](https://www.acmicpc.net/problem/2606) | 🔥 | 🔥 | | 📖 | | | | | |
+| [음식물 피하기](https://www.acmicpc.net/problem/1743) | | | | 📖 | | | | 🔥 | |
 | [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479) | | | | 📖 | | | | | |
 | [알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480) | | | | 📖 | | | | | |
 | [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) | | | | 📖 | | | | | |
@@ -226,7 +226,7 @@
 | 22 B | [파괴되지 않은 건물 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | | | | | 📖 | | | | | |
 | 22 B | [양과 늑대 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | | | | | 📖 | | | | | |
 | 23 B | [개인정보 수집 유효기간 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | | 🔥 | | 🔥 | 📖 | | | | | |
-| 23 B | [택배 배달과 수거하기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | | | | | 📖 | | | | | |
+| 23 B | [택배 배달과 수거하기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | | | | 🔥 | 📖 | | | | | |
 | 23 B | [이모티콘 할인행사 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | | | | | 📖 | | | | | |
 | 23 B | [표현 가능한 이진트리 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/150367) | | | | | 📖 | | | | | |
 | 23 B | [표 병합 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/150366) | | | | | 📖 | | | | | |
