@@ -5,9 +5,9 @@
 | 풀어보기 | Sunny | Jimin | 남졍 | 📖 | Kendrick | Dana | Ivy | Muzy | 조제 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | 🔥 | 🔥 | 🔥 | 📖 | 🔥 | 🔥 | 🔥 | 🔥 | 🔥 |
-| [트럭 주차](https://www.acmicpc.net/problem/2979) | 🔥 | 🔥 | 🔥 | 📖 | 🔥 | | 🔥 | | 🔥 |
-| [펠린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) | 🔥 | 🔥 | 🔥 | 📖 | | | | 🔥 | 🔥 |
-| [농구 경기](https://www.acmicpc.net/problem/1159) | 🔥 | 🔥 | 🔥 | 📖 | | | | 🔥 | 🔥 |
+| [트럭 주차](https://www.acmicpc.net/problem/2979) | 🔥 | 🔥 | 🔥 | 📖 | 🔥 | 🔥 | 🔥 | | 🔥 |
+| [펠린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) | 🔥 | 🔥 | 🔥 | 📖 | | | 🔥 | 🔥 | 🔥 |
+| [농구 경기](https://www.acmicpc.net/problem/1159) | 🔥 | 🔥 | 🔥 | 📖 | 🔥 | | | 🔥 | 🔥 |
 | [ROT13](https://www.acmicpc.net/problem/11655) | 🔥 | 🔥 | 🔥 | 📖 | | | | 🔥 | 🔥 |
 | [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996) | 🔥 | 🔥 | 🔥 | 📖 | | | | | 🔥 |
 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
@@ -33,8 +33,8 @@
 | [수학 숙제](https://www.acmicpc.net/problem/2870) | | 🔥 | | 📖 | | | | | |
 | [NBA 농구](https://www.acmicpc.net/problem/2852) | 🔥 | 🔥 | | 📖 | | | | | |
 | [통계학](https://www.acmicpc.net/problem/2108) | | | | 📖 | | | | | |
-| [MVP다이아몬드(Easy)](https://www.acmicpc.net/problem/20413) | | | | 📖 | | | | | |
-| [로봇청소기](https://www.acmicpc.net/problem/14503) | | 🔥 | | 📖 | | | | | |
+| [MVP다이아몬드(Easy)](https://www.acmicpc.net/problem/20413) | | | | 📖 | | | | 🔥 | |
+| [로봇청소기](https://www.acmicpc.net/problem/14503) | | 🔥 | | 📖 | | | | 🔥 | |
 | [톱니바퀴](https://www.acmicpc.net/problem/14891) | | | | 📖 | | | | | |
 | [톱니바퀴2](https://www.acmicpc.net/problem/15662) | | | | 📖 | | | | | |
 | [뱀](https://www.acmicpc.net/problem/3190) | | | | 📖 | | | | | |
@@ -62,9 +62,9 @@
 | [촌수계산](https://www.acmicpc.net/problem/2644) | 🔥 | 🔥 | | 📖 | | | | | |
 | [스타트링크](https://www.acmicpc.net/problem/5014) | 🔥 | 🔥 | | 📖 | | | | | |
 | [적록색약](https://www.acmicpc.net/problem/10026) | | | | 📖 | | | | | |
-| [토마토](https://www.acmicpc.net/problem/7576) | 🔥 | 🔥 | | 📖 | | | | | |
+| [토마토](https://www.acmicpc.net/problem/7576) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
 | [토마토 with 3차원배열](https://www.acmicpc.net/problem/7569) | 🔥 | 🔥 | | 📖 | | | | | |
-| [연구소](https://www.acmicpc.net/problem/14502) | | | | 📖 | | | | | |
+| [연구소](https://www.acmicpc.net/problem/14502) | | | | 📖 | | | | 🔥 | |
 | [연구소 2](https://www.acmicpc.net/problem/17141) | | | | 📖 | | | | | |
 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | 🔥 | 🔥 | | 📖 | | | | | |
 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | 🔥 | 🔥 | | 📖 | | | | | |
@@ -104,7 +104,7 @@
 ## 🍎 BOJ - 그리디
 | 풀어보기 | Sunny | Jimin | 남졍 | 📖 | Kendrick | Dana | Ivy | Muzy | 조제 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [회의실 배정](https://www.acmicpc.net/problem/1931) | 🔥 | | | 📖 | | | | 🔥 | |
+| [회의실 배정](https://www.acmicpc.net/problem/1931) | 🔥 | | | 📖 | | | 🔥 | 🔥 | |
 | [A와 B](https://www.acmicpc.net/problem/12904) | | | | 📖 | | | | | |
 | [사과 담기 게임](https://www.acmicpc.net/problem/2828) | 🔥 | 🔥 | | 📖 | | | | | |
 | [선 긋기](https://www.acmicpc.net/problem/2170) | | | | 📖 | | | | | |
@@ -113,13 +113,13 @@
 ## 🍎 BOJ - Dynamic Programming
 | 풀어보기 | Sunny | Jimin | 남졍 | 📖 | Kendrick | Dana | Ivy | Muzy | 조제 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | | 🔥 | | 📖 | | | | | |
+| [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | | 🔥 | | 📖 | | | | 🔥 | |
 | [피보나치 수 1](https://www.acmicpc.net/problem/24416) | | | | 📖 | | | | | |
 | [파스칼의 삼각형](https://www.acmicpc.net/problem/16395) | 🔥 | 🔥 | | 📖 | | | | | |
 | [01타일](https://www.acmicpc.net/problem/1904) | | | | 📖 | | | | | |
 | [1로 만들기](https://www.acmicpc.net/problem/1463) | 🔥 | 🔥 | | 📖 | | | | | |
 | [신나는 함수 실행](https://www.acmicpc.net/problem/9184) | | | | 📖 | | | | | |
-| [파도반 수열](https://www.acmicpc.net/problem/9461) | | 🔥 | | 📖 | | | | | |
+| [파도반 수열](https://www.acmicpc.net/problem/9461) | | 🔥 | | 📖 | | | | 🔥 | |
 | [연속합](https://www.acmicpc.net/problem/1912) | | 🔥 | | 📖 | | | | | |
 | [1로 만들기 2](https://www.acmicpc.net/problem/12852) | | | | 📖 | | | | | |
 | [퇴사](https://www.acmicpc.net/problem/14501) | 🔥 | | | 📖 | | | | | |
@@ -227,7 +227,7 @@
 | 22 B | [양과 늑대 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | | | | | 📖 | | | | | |
 | 23 B | [개인정보 수집 유효기간 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | | 🔥 | | 🔥 | 📖 | | | | | |
 | 23 B | [택배 배달과 수거하기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | | | | 🔥 | 📖 | | | | | |
-| 23 B | [이모티콘 할인행사 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | | | | | 📖 | | | | | |
+| 23 B | [이모티콘 할인행사 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | | | | 🔥 | 📖 | | | | | |
 | 23 B | [표현 가능한 이진트리 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/150367) | | | | | 📖 | | | | | |
 | 23 B | [표 병합 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/150366) | | | | | 📖 | | | | | |
 | 23 B | [미로 탈출 명령어 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/150365) | | | | | 📖 | | | | | |
