@@ -6,27 +6,27 @@
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | 🔥 | 🔥 | 🔥 | 📖 | 🔥 | 🔥 | 🔥 | 🔥 | 🔥 |
 | [트럭 주차](https://www.acmicpc.net/problem/2979) | 🔥 | 🔥 | 🔥 | 📖 | 🔥 | 🔥 | 🔥 | | 🔥 |
-| [펠린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) | 🔥 | 🔥 | 🔥 | 📖 | | | 🔥 | 🔥 | 🔥 |
-| [농구 경기](https://www.acmicpc.net/problem/1159) | 🔥 | 🔥 | 🔥 | 📖 | 🔥 | | | 🔥 | 🔥 |
-| [ROT13](https://www.acmicpc.net/problem/11655) | 🔥 | 🔥 | 🔥 | 📖 | | | | 🔥 | 🔥 |
-| [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996) | 🔥 | 🔥 | 🔥 | 📖 | | | | | 🔥 |
+| [펠린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) | 🔥 | 🔥 | 🔥 | 📖 | | 🔥 | 🔥 | 🔥 | 🔥 |
+| [농구 경기](https://www.acmicpc.net/problem/1159) | 🔥 | 🔥 | 🔥 | 📖 | 🔥 | 🔥 | 🔥 | 🔥 | 🔥 |
+| [ROT13](https://www.acmicpc.net/problem/11655) | 🔥 | 🔥 | 🔥 | 📖 | | | 🔥 | 🔥 | 🔥 |
+| [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996) | 🔥 | 🔥 | 🔥 | 📖 | | | 🔥 | | 🔥 |
 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
 | [좋은 단어](https://www.acmicpc.net/problem/3986) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
 | [벌집](https://www.acmicpc.net/problem/2292) | 🔥 | 🔥 | | 📖 | | | | | 🔥 |
 | [시험 감독](https://www.acmicpc.net/problem/13458) | 🔥 | 🔥 | | 📖 | | | | | |
 | [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) | 🔥 | 🔥 | | 📖 | | | | | 🔥 |
 | [기상캐스터](https://www.acmicpc.net/problem/10709) | | 🔥 | | 📖 | | | | | 🔥 |
-| [분수 찾기](https://www.acmicpc.net/problem/1193) | 🔥 | 🔥 | | 📖 | | | | | 🔥 |
+| [분수 찾기](https://www.acmicpc.net/problem/1193) | 🔥 | 🔥 | 🔥 | 📖 | | | | | 🔥 |
 | [손익분기점](https://www.acmicpc.net/problem/1712) | 🔥 | 🔥 | | 📖 | | | | | 🔥 |
-| [공](https://www.acmicpc.net/problem/1547) | 🔥 | 🔥 | | 📖 | | | | | 🔥 |
-| [ATM](https://www.acmicpc.net/problem/11399) | 🔥 | 🔥 | | 📖 | | | | 🔥 | 🔥 |
-| [단어 정렬](https://www.acmicpc.net/problem/1181) | | 🔥 | | 📖 | | | | | 🔥 |
+| [공](https://www.acmicpc.net/problem/1547) | 🔥 | 🔥 | 🔥 | 📖 | | | | | 🔥 |
+| [ATM](https://www.acmicpc.net/problem/11399) | 🔥 | 🔥 | 🔥 | 📖 | | | | 🔥 | 🔥 |
+| [단어 정렬](https://www.acmicpc.net/problem/1181) | | 🔥 | 🔥 | 📖 | | | | | 🔥 |
 | [나이순 정렬](https://www.acmicpc.net/problem/10814) | | 🔥 | | 📖 | | | | 🔥 | 🔥 |
-| [카드 놓기](https://www.acmicpc.net/problem/5568) | | 🔥 | | 📖 | | | | 🔥 | |
-| [소트 인사이드](https://www.acmicpc.net/problem/1427) | 🔥 | 🔥 | | 📖 | | | | 🔥 | 🔥 |
-| [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | | 🔥 | | 📖 | | | | 🔥 | 🔥 |
-| [좌표 압축](https://www.acmicpc.net/problem/18870) | | | | 📖 | | | | | |
-| [진법 변환](https://www.acmicpc.net/problem/2745) | | | | 📖 | | | | | |
+| [카드 놓기](https://www.acmicpc.net/problem/5568) | | 🔥 | 🔥 | 📖 | | | | 🔥 | |
+| [소트 인사이드](https://www.acmicpc.net/problem/1427) | 🔥 | 🔥 | 🔥 | 📖 | | | | 🔥 | 🔥 |
+| [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | | 🔥 | 🔥 | 📖 | | | | 🔥 | 🔥 |
+| [좌표 압축](https://www.acmicpc.net/problem/18870) | | | 🔥 | 📖 | | | | | |
+| [진법 변환](https://www.acmicpc.net/problem/2745) | | | 🔥 | 📖 | | | | | |
 | [진법 변환2](https://www.acmicpc.net/problem/11005) | | | | 📖 | | | | | |
 | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | 🔥 | 🔥 | | 📖 | | | | | 🔥 |
 | [빈도 정렬](https://www.acmicpc.net/problem/2910) | | | | 📖 | | | | | |
@@ -51,10 +51,10 @@
 | [유기농 배추](https://www.acmicpc.net/problem/1012) | 🔥 | 🔥 | | 📖 | | | | | |
 | [보물섬](https://www.acmicpc.net/problem/2589) | | | | 📖 | | | | 🔥 | |
 | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | | | | 📖 | | | | | |
-| [바이러스](https://www.acmicpc.net/problem/2606) | 🔥 | 🔥 | | 📖 | | | | | |
+| [바이러스](https://www.acmicpc.net/problem/2606) | 🔥 | 🔥 | | 📖 | | 🔥 | | | |
 | [음식물 피하기](https://www.acmicpc.net/problem/1743) | | | | 📖 | | | | 🔥 | |
 | [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479) | | | | 📖 | | | | 🔥 | |
-| [알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480) | | | | 📖 | | | | 🔥 | |
+| [알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480) | | | | 📖 | | 🔥 | | 🔥 | |
 | [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) | | | | 📖 | | | | 🔥 | |
 | [알고리즘 수업 - 너비 우선 탐색 2](https://www.acmicpc.net/problem/24445) | | | | 📖 | | | | 🔥 | |
 | [안전영역](https://www.acmicpc.net/problem/2468) | 🔥 | 🔥 | | 📖 | | | | | |
@@ -90,8 +90,8 @@
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) | | 🔥 | | 📖 | | | | | |
 | [설탕 배달](https://www.acmicpc.net/problem/2839) | 🔥 | 🔥 | | 📖 | | | | | |
-| [블랙잭](https://www.acmicpc.net/problem/2798) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
-| [분해합](https://www.acmicpc.net/problem/2231) | 🔥 | 🔥 | | 📖 | | | | | |
+| [블랙잭](https://www.acmicpc.net/problem/2798) | 🔥 | 🔥 | | 📖 | 🔥 | | | 🔥 | |
+| [분해합](https://www.acmicpc.net/problem/2231) | 🔥 | 🔥 | | 📖 | 🔥 | | | | |
 | [덩치](https://www.acmicpc.net/problem/7568) | | | | 📖 | | | | | |
 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | 🔥 | 🔥 | | 📖 | | | | | |
 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 🔥 | 🔥 | | 📖 | | | | | |
