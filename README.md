@@ -15,18 +15,18 @@
 | [벌집](https://www.acmicpc.net/problem/2292) | 🔥 | 🔥 | | 📖 | | | | | 🔥 |
 | [시험 감독](https://www.acmicpc.net/problem/13458) | 🔥 | 🔥 | | 📖 | | | | | |
 | [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) | 🔥 | 🔥 | | 📖 | | | | | 🔥 |
-| [기상캐스터](https://www.acmicpc.net/problem/10709) | | 🔥 | | 📖 | | | | | 🔥 |
-| [분수 찾기](https://www.acmicpc.net/problem/1193) | 🔥 | 🔥 | 🔥 | 📖 | | | | | 🔥 |
-| [손익분기점](https://www.acmicpc.net/problem/1712) | 🔥 | 🔥 | | 📖 | | | | | 🔥 |
+| [기상캐스터](https://www.acmicpc.net/problem/10709) | | 🔥 | 🔥 | 📖 | | | | | 🔥 |
+| [분수 찾기](https://www.acmicpc.net/problem/1193) | 🔥 | 🔥 | | 📖 | | | | | 🔥 |
+| [손익분기점](https://www.acmicpc.net/problem/1712) | 🔥 | 🔥 | 🔥| 📖 | | | | | 🔥 |
 | [공](https://www.acmicpc.net/problem/1547) | 🔥 | 🔥 | 🔥 | 📖 | | | | | 🔥 |
 | [ATM](https://www.acmicpc.net/problem/11399) | 🔥 | 🔥 | 🔥 | 📖 | | | | 🔥 | 🔥 |
-| [단어 정렬](https://www.acmicpc.net/problem/1181) | | 🔥 | 🔥 | 📖 | | | | | 🔥 |
+| [단어 정렬](https://www.acmicpc.net/problem/1181) | | 🔥 | | 📖 | | | | | 🔥 |
 | [나이순 정렬](https://www.acmicpc.net/problem/10814) | | 🔥 | | 📖 | | | | 🔥 | 🔥 |
-| [카드 놓기](https://www.acmicpc.net/problem/5568) | | 🔥 | 🔥 | 📖 | | | | 🔥 | |
-| [소트 인사이드](https://www.acmicpc.net/problem/1427) | 🔥 | 🔥 | 🔥 | 📖 | | | | 🔥 | 🔥 |
-| [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | | 🔥 | 🔥 | 📖 | | | | 🔥 | 🔥 |
-| [좌표 압축](https://www.acmicpc.net/problem/18870) | | | 🔥 | 📖 | | | | | |
-| [진법 변환](https://www.acmicpc.net/problem/2745) | | | 🔥 | 📖 | | | | | |
+| [카드 놓기](https://www.acmicpc.net/problem/5568) | | 🔥 | | 📖 | | | | 🔥 | |
+| [소트 인사이드](https://www.acmicpc.net/problem/1427) | 🔥 | 🔥 | | 📖 | | | | 🔥 | 🔥 |
+| [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | | 🔥 | | 📖 | | | | 🔥 | 🔥 |
+| [좌표 압축](https://www.acmicpc.net/problem/18870) | | | | 📖 | | | | | |
+| [진법 변환](https://www.acmicpc.net/problem/2745) | | | | 📖 | | | | | |
 | [진법 변환2](https://www.acmicpc.net/problem/11005) | | | | 📖 | | | | | |
 | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | 🔥 | 🔥 | | 📖 | | | | | 🔥 |
 | [빈도 정렬](https://www.acmicpc.net/problem/2910) | | | | 📖 | | | | | |
