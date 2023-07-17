@@ -8,14 +8,14 @@
 | [트럭 주차](https://www.acmicpc.net/problem/2979) | 🔥 | 🔥 | 🔥 | 📖 | 🔥 | 🔥 | 🔥 | | 🔥 |
 | [펠린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) | 🔥 | 🔥 | 🔥 | 📖 | | 🔥 | 🔥 | 🔥 | 🔥 |
 | [농구 경기](https://www.acmicpc.net/problem/1159) | 🔥 | 🔥 | 🔥 | 📖 | 🔥 | 🔥 | 🔥 | 🔥 | 🔥 |
-| [ROT13](https://www.acmicpc.net/problem/11655) | 🔥 | 🔥 | 🔥 | 📖 | | | 🔥 | 🔥 | 🔥 |
+| [ROT13](https://www.acmicpc.net/problem/11655) | 🔥 | 🔥 | 🔥 | 📖 | | 🔥 | 🔥 | 🔥 | 🔥 |
 | [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996) | 🔥 | 🔥 | 🔥 | 📖 | | | 🔥 | | 🔥 |
-| [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
-| [좋은 단어](https://www.acmicpc.net/problem/3986) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
+| [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | 🔥 | 🔥 | | 📖 | | | 🔥 | 🔥 | |
+| [좋은 단어](https://www.acmicpc.net/problem/3986) | 🔥 | 🔥 | | 📖 | | | 🔥 | 🔥 | |
 | [벌집](https://www.acmicpc.net/problem/2292) | 🔥 | 🔥 | | 📖 | | | | | 🔥 |
 | [시험 감독](https://www.acmicpc.net/problem/13458) | 🔥 | 🔥 | | 📖 | | | | | |
-| [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) | 🔥 | 🔥 | | 📖 | | | | | 🔥 |
-| [기상캐스터](https://www.acmicpc.net/problem/10709) | | 🔥 | 🔥 | 📖 | | | | | 🔥 |
+| [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) | 🔥 | 🔥 | | 📖 | | | | 🔥 | 🔥 |
+| [기상캐스터](https://www.acmicpc.net/problem/10709) | | 🔥 | 🔥 | 📖 | | | | 🔥 | 🔥 |
 | [분수 찾기](https://www.acmicpc.net/problem/1193) | 🔥 | 🔥 | | 📖 | | | | | 🔥 |
 | [손익분기점](https://www.acmicpc.net/problem/1712) | 🔥 | 🔥 | 🔥| 📖 | | | | | 🔥 |
 | [공](https://www.acmicpc.net/problem/1547) | 🔥 | 🔥 | 🔥 | 📖 | | | | | 🔥 |
@@ -45,10 +45,10 @@
 ## 🍎 BOJ - 그래프
 | 풀어보기 | Sunny | Jimin | 남졍 | 📖 | Kendrick | Dana | Ivy | Muzy | 조제 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🔥 | 🔥 | | 📖 | | | | | |
-| [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 🔥 | 🔥 | | 📖 | | | | | |
+| [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🔥 | 🔥 | | 📖 | | 🔥 | | | |
+| [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 🔥 | 🔥 | | 📖 | | 🔥 | | | |
 | [미로 탐색](https://www.acmicpc.net/problem/2178) | 🔥 | 🔥 | | 📖 | | | | | |
-| [유기농 배추](https://www.acmicpc.net/problem/1012) | 🔥 | 🔥 | | 📖 | | | | | |
+| [유기농 배추](https://www.acmicpc.net/problem/1012) | 🔥 | 🔥 | | 📖 | | 🔥 | | | |
 | [보물섬](https://www.acmicpc.net/problem/2589) | | | | 📖 | | | | 🔥 | |
 | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | | | | 📖 | | | | | |
 | [바이러스](https://www.acmicpc.net/problem/2606) | 🔥 | 🔥 | | 📖 | | 🔥 | | | |
@@ -72,7 +72,7 @@
 | [인구이동](https://www.acmicpc.net/problem/16234) | | 🔥 | | 📖 | | | | | |
 | [불!](https://www.acmicpc.net/problem/4179) | | | | 📖 | | | | 🔥 | |
 | [뮤탈리스크](https://www.acmicpc.net/problem/12869) | | | | 📖 | | | | | |
-| [나이트의 이동](https://www.acmicpc.net/problem/7562) | | 🔥 | | 📖 | | | | | |
+| [나이트의 이동](https://www.acmicpc.net/problem/7562) | | 🔥 | | 📖 | | | | 🔥 | |
 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | | 🔥 | | 📖 | | | | | |
 | [컴백홈](https://www.acmicpc.net/problem/1189) | | | | 📖 | | | | | |
 | [거짓말](https://www.acmicpc.net/problem/1043) | | | | 📖 | | | | | |
