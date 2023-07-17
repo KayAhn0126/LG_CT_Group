@@ -12,15 +12,15 @@
 | [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996) | 🔥 | 🔥 | 🔥 | 📖 | | | 🔥 | | 🔥 |
 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | 🔥 | 🔥 | | 📖 | | | 🔥 | 🔥 | |
 | [좋은 단어](https://www.acmicpc.net/problem/3986) | 🔥 | 🔥 | | 📖 | | | 🔥 | 🔥 | |
-| [벌집](https://www.acmicpc.net/problem/2292) | 🔥 | 🔥 | | 📖 | | | | | 🔥 |
+| [벌집](https://www.acmicpc.net/problem/2292) | 🔥 | 🔥 | | 📖 | | | 🔥 | | 🔥 |
 | [시험 감독](https://www.acmicpc.net/problem/13458) | 🔥 | 🔥 | | 📖 | | | | | |
 | [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) | 🔥 | 🔥 | | 📖 | | | | 🔥 | 🔥 |
 | [기상캐스터](https://www.acmicpc.net/problem/10709) | | 🔥 | 🔥 | 📖 | | | | 🔥 | 🔥 |
 | [분수 찾기](https://www.acmicpc.net/problem/1193) | 🔥 | 🔥 | | 📖 | | | | | 🔥 |
-| [손익분기점](https://www.acmicpc.net/problem/1712) | 🔥 | 🔥 | 🔥| 📖 | | | | | 🔥 |
+| [손익분기점](https://www.acmicpc.net/problem/1712) | 🔥 | 🔥 | 🔥| 📖 | | | | 🔥 | 🔥 |
 | [공](https://www.acmicpc.net/problem/1547) | 🔥 | 🔥 | 🔥 | 📖 | | | | | 🔥 |
 | [ATM](https://www.acmicpc.net/problem/11399) | 🔥 | 🔥 | 🔥 | 📖 | | | | 🔥 | 🔥 |
-| [단어 정렬](https://www.acmicpc.net/problem/1181) | | 🔥 | | 📖 | | | | | 🔥 |
+| [단어 정렬](https://www.acmicpc.net/problem/1181) | | 🔥 | | 📖 | | | | 🔥 | 🔥 |
 | [나이순 정렬](https://www.acmicpc.net/problem/10814) | | 🔥 | | 📖 | | | | 🔥 | 🔥 |
 | [카드 놓기](https://www.acmicpc.net/problem/5568) | | 🔥 | | 📖 | | | | 🔥 | |
 | [소트 인사이드](https://www.acmicpc.net/problem/1427) | 🔥 | 🔥 | | 📖 | | | | 🔥 | 🔥 |
@@ -32,7 +32,7 @@
 | [빈도 정렬](https://www.acmicpc.net/problem/2910) | | | | 📖 | | | | | |
 | [수학 숙제](https://www.acmicpc.net/problem/2870) | | 🔥 | | 📖 | | | | | |
 | [NBA 농구](https://www.acmicpc.net/problem/2852) | 🔥 | 🔥 | | 📖 | | | | | |
-| [통계학](https://www.acmicpc.net/problem/2108) | | | | 📖 | | | | | |
+| [통계학](https://www.acmicpc.net/problem/2108) | | | | 📖 | | | | | 🔥 |
 | [MVP다이아몬드(Easy)](https://www.acmicpc.net/problem/20413) | | | | 📖 | | | | 🔥 | |
 | [로봇청소기](https://www.acmicpc.net/problem/14503) | | 🔥 | | 📖 | | | | 🔥 | |
 | [톱니바퀴](https://www.acmicpc.net/problem/14891) | | | | 📖 | | | | | |
@@ -45,13 +45,13 @@
 ## 🍎 BOJ - 그래프
 | 풀어보기 | Sunny | Jimin | 남졍 | 📖 | Kendrick | Dana | Ivy | Muzy | 조제 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🔥 | 🔥 | | 📖 | | 🔥 | | | |
-| [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 🔥 | 🔥 | | 📖 | | 🔥 | | | |
-| [미로 탐색](https://www.acmicpc.net/problem/2178) | 🔥 | 🔥 | | 📖 | | | | | |
-| [유기농 배추](https://www.acmicpc.net/problem/1012) | 🔥 | 🔥 | | 📖 | | 🔥 | | | |
+| [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🔥 | 🔥 | | 📖 | | 🔥 | | 🔥 | |
+| [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 🔥 | 🔥 | | 📖 | | 🔥 | | 🔥 | |
+| [미로 탐색](https://www.acmicpc.net/problem/2178) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
+| [유기농 배추](https://www.acmicpc.net/problem/1012) | 🔥 | 🔥 | | 📖 | | 🔥 | | 🔥 | |
 | [보물섬](https://www.acmicpc.net/problem/2589) | | | | 📖 | | | | 🔥 | |
 | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | | | | 📖 | | | | | |
-| [바이러스](https://www.acmicpc.net/problem/2606) | 🔥 | 🔥 | | 📖 | | 🔥 | | | |
+| [바이러스](https://www.acmicpc.net/problem/2606) | 🔥 | 🔥 | | 📖 | | 🔥 | | 🔥 | |
 | [음식물 피하기](https://www.acmicpc.net/problem/1743) | | | | 📖 | | | | 🔥 | |
 | [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479) | | | | 📖 | | | | 🔥 | |
 | [알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480) | | | | 📖 | | 🔥 | | 🔥 | |
@@ -68,8 +68,8 @@
 | [연구소 2](https://www.acmicpc.net/problem/17141) | | | | 📖 | | | | | |
 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | 🔥 | 🔥 | | 📖 | | | | | |
 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | 🔥 | 🔥 | | 📖 | | | | | |
-| [치즈](https://www.acmicpc.net/problem/2636) | 🔥 | 🔥 | | 📖 | | | | | |
-| [인구이동](https://www.acmicpc.net/problem/16234) | | 🔥 | | 📖 | | | | | |
+| [치즈](https://www.acmicpc.net/problem/2636) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
+| [인구이동](https://www.acmicpc.net/problem/16234) | | 🔥 | | 📖 | | | | 🔥 | |
 | [불!](https://www.acmicpc.net/problem/4179) | | | | 📖 | | | | 🔥 | |
 | [뮤탈리스크](https://www.acmicpc.net/problem/12869) | | | | 📖 | | | | | |
 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | | 🔥 | | 📖 | | | | 🔥 | |
@@ -77,7 +77,7 @@
 | [컴백홈](https://www.acmicpc.net/problem/1189) | | | | 📖 | | | | | |
 | [거짓말](https://www.acmicpc.net/problem/1043) | | | | 📖 | | | | | |
 | [알파벳](https://www.acmicpc.net/problem/1987) | | | | 📖 | | | | | |
-| [빙산](https://www.acmicpc.net/problem/2573) | 🔥 | 🔥 | | 📖 | | | | | |
+| [빙산](https://www.acmicpc.net/problem/2573) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | | 🔥 | | 📖 | | | | | |
 | [주난의 난](https://www.acmicpc.net/problem/14497) | | | | 📖 | | | | | |
 | [백조의호수](https://www.acmicpc.net/problem/3197) | | | | 📖 | | | | | |
@@ -88,12 +88,12 @@
 ## 🍎 BOJ - 브루트포스
 | 풀어보기 | Sunny | Jimin | 남졍 | 📖 | Kendrick | Dana | Ivy | Muzy | 조제 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) | | 🔥 | | 📖 | | | | | |
-| [설탕 배달](https://www.acmicpc.net/problem/2839) | 🔥 | 🔥 | | 📖 | | | | | |
+| [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) | | 🔥 | | 📖 | | | | 🔥 | |
+| [설탕 배달](https://www.acmicpc.net/problem/2839) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
 | [블랙잭](https://www.acmicpc.net/problem/2798) | 🔥 | 🔥 | | 📖 | 🔥 | | | 🔥 | |
 | [분해합](https://www.acmicpc.net/problem/2231) | 🔥 | 🔥 | | 📖 | 🔥 | | | | |
 | [덩치](https://www.acmicpc.net/problem/7568) | | | | 📖 | | | | | |
-| [영화감독 숌](https://www.acmicpc.net/problem/1436) | 🔥 | 🔥 | | 📖 | | | | | |
+| [영화감독 숌](https://www.acmicpc.net/problem/1436) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 🔥 | 🔥 | | 📖 | | | | | |
 | [치킨 배달](https://www.acmicpc.net/problem/15686) | | | | 📖 | | | | | |
 | [테트로미노](https://www.acmicpc.net/problem/14500) | | | | 📖 | | | | 🔥 | |
@@ -107,15 +107,15 @@
 | [회의실 배정](https://www.acmicpc.net/problem/1931) | 🔥 | | | 📖 | | | 🔥 | 🔥 | |
 | [A와 B](https://www.acmicpc.net/problem/12904) | | | | 📖 | | | | | |
 | [사과 담기 게임](https://www.acmicpc.net/problem/2828) | 🔥 | 🔥 | | 📖 | | | | | |
-| [선 긋기](https://www.acmicpc.net/problem/2170) | | | | 📖 | | | | | |
+| [선 긋기](https://www.acmicpc.net/problem/2170) | | | | 📖 | | | | 🔥 | |
 | [오큰수](https://www.acmicpc.net/problem/17298) | | | | 📖 | | | | 🔥 | |
 
 ## 🍎 BOJ - Dynamic Programming
 | 풀어보기 | Sunny | Jimin | 남졍 | 📖 | Kendrick | Dana | Ivy | Muzy | 조제 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | | 🔥 | | 📖 | | | | 🔥 | |
-| [피보나치 수 1](https://www.acmicpc.net/problem/24416) | | | | 📖 | | | | | |
-| [파스칼의 삼각형](https://www.acmicpc.net/problem/16395) | 🔥 | 🔥 | | 📖 | | | | | |
+| [피보나치 수 1](https://www.acmicpc.net/problem/24416) | | | | 📖 | 🔥 | | | | |
+| [파스칼의 삼각형](https://www.acmicpc.net/problem/16395) | 🔥 | 🔥 | | 📖 | 🔥 | | | | |
 | [01타일](https://www.acmicpc.net/problem/1904) | | | | 📖 | | | | | |
 | [1로 만들기](https://www.acmicpc.net/problem/1463) | 🔥 | 🔥 | | 📖 | | | | | |
 | [신나는 함수 실행](https://www.acmicpc.net/problem/9184) | | | | 📖 | | | | | |
@@ -215,7 +215,7 @@
 
 | 연도| 풀어보기 | Sunny | Jimin | 남졍 | 케이 | 📖 | Kendrick | Dana | Ivy | Muzy | 조제 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |  :-: |
-| 19 WI | [크레인 인형뽑기 게임 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | 🔥 | | | 🔥 | 📖 | | | | | |
+| 19 WI | [크레인 인형뽑기 게임 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | 🔥 | | | 🔥 | 📖 | | | | | 🔥 |
 | 19 WI | [튜플 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | 🔥 | | | 🔥 | 📖 | | | | | |
 | 19 WI | [불량 사용자 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | | | | | 📖 | | | | | |
 | 19 WI | [징검다리 건너기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | | | | | 📖 | | | | | |
@@ -225,12 +225,12 @@
 | 20 I | [보석 쇼핑 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | | | | | 📖 | | | | | |
 | 20 I | [경주로 건설 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | | | | | 📖 | | | | | |
 | 20 I | [동굴 탐험 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/67260) | | | | | 📖 | | | | | |
-| 21 GI | [숫자 문자열과 영단어 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | | | | 🔥 | 📖 | | | | | |
+| 21 GI | [숫자 문자열과 영단어 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | | | | 🔥 | 📖 | | | | | 🔥 |
 | 21 GI | [거리두기 확인하기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | | | | 🔥 | 📖 | | | | | |
 | 21 GI | [표 편집 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/81303) | | | | | 📖 | | | | | |
 | 21 GI | [미로 탈출 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/81304) | | | | | 📖 | | | | | |
 | 21 GI | [시험장 나누기 LV5](https://school.programmers.co.kr/learn/courses/30/lessons/81305) | | | | | 📖 | | | | | |
-| 22 I | [성격 유형 검사하기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | | | | 🔥 | 📖 | | | | | |
+| 22 I | [성격 유형 검사하기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | | | | 🔥 | 📖 | | | | | 🔥 |
 | 22 I | [두 큐 합 같게 만들기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | | | | 🔥 | 📖 | | | | | |
 | 22 I | [등산코스 정하기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | | | | | 📖 | | | | | |
 | 22 I | [코딩 테스트 공부 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/118668) | | | | | 📖 | | | | | |
