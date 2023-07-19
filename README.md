@@ -32,7 +32,7 @@
 | [빈도 정렬](https://www.acmicpc.net/problem/2910) | | | | 📖 | | | | | |
 | [수학 숙제](https://www.acmicpc.net/problem/2870) | | 🔥 | | 📖 | | | | | |
 | [NBA 농구](https://www.acmicpc.net/problem/2852) | 🔥 | 🔥 | | 📖 | | | | | |
-| [통계학](https://www.acmicpc.net/problem/2108) | | | | 📖 | | | | | 🔥 |
+| [통계학](https://www.acmicpc.net/problem/2108) | | | | 📖 | | 🔥 | | | 🔥 |
 | [MVP다이아몬드(Easy)](https://www.acmicpc.net/problem/20413) | | | | 📖 | | | | 🔥 | |
 | [로봇청소기](https://www.acmicpc.net/problem/14503) | | 🔥 | | 📖 | | | | 🔥 | |
 | [톱니바퀴](https://www.acmicpc.net/problem/14891) | | | | 📖 | | | | | |
@@ -46,9 +46,9 @@
 | 풀어보기 | Sunny | Jimin | 남졍 | 📖 | Kendrick | Dana | Ivy | Muzy | 조제 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🔥 | 🔥 | | 📖 | | 🔥 | 🔥 | 🔥 | |
-| [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 🔥 | 🔥 | | 📖 | | 🔥 | | 🔥 | |
-| [미로 탐색](https://www.acmicpc.net/problem/2178) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
-| [유기농 배추](https://www.acmicpc.net/problem/1012) | 🔥 | 🔥 | | 📖 | | 🔥 | | 🔥 | |
+| [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 🔥 | 🔥 | | 📖 | | 🔥 | | 🔥 | 🔥 |
+| [미로 탐색](https://www.acmicpc.net/problem/2178) | 🔥 | 🔥 | | 📖 | | | | 🔥 | 🔥 |
+| [유기농 배추](https://www.acmicpc.net/problem/1012) | 🔥 | 🔥 | | 📖 | | 🔥 | | 🔥 | 🔥 |
 | [보물섬](https://www.acmicpc.net/problem/2589) | | | | 📖 | | | | 🔥 | |
 | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | | | | 📖 | | | | | |
 | [바이러스](https://www.acmicpc.net/problem/2606) | 🔥 | 🔥 | | 📖 | | 🔥 | | 🔥 | |
@@ -90,9 +90,9 @@
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) | | 🔥 | | 📖 | | | | 🔥 | |
 | [설탕 배달](https://www.acmicpc.net/problem/2839) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
-| [블랙잭](https://www.acmicpc.net/problem/2798) | 🔥 | 🔥 | | 📖 | 🔥 | | | 🔥 | |
+| [블랙잭](https://www.acmicpc.net/problem/2798) | 🔥 | 🔥 | | 📖 | 🔥 | 🔥 | | 🔥 | |
 | [분해합](https://www.acmicpc.net/problem/2231) | 🔥 | 🔥 | | 📖 | 🔥 | | | | |
-| [덩치](https://www.acmicpc.net/problem/7568) | | | | 📖 | | | | | |
+| [덩치](https://www.acmicpc.net/problem/7568) | | | | 📖 | | 🔥 | | | |
 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 🔥 | 🔥 | | 📖 | | | | | |
 | [치킨 배달](https://www.acmicpc.net/problem/15686) | | | | 📖 | | | | | |
@@ -235,8 +235,8 @@
 | 22 I | [등산코스 정하기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | | | | | 📖 | | | | | |
 | 22 I | [코딩 테스트 공부 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/118668) | | | | | 📖 | | | | | |
 | 22 I | [행렬과 연산 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/118670) | | | | | 📖 | | | | | |
-| 18 B | [다트게임 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | | | | 🔥 | 📖 | | | | | |
-| 18 B | [비밀 지도 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | | | | 🔥 | 📖 | | | | | |
+| 18 B | [다트게임 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | | | | 🔥 | 📖 | | | | | 🔥 |
+| 18 B | [비밀 지도 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | | | | 🔥 | 📖 | | | | | 🔥 |
 | 18 B | [캐시 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | | | | 🔥 | 📖 | | | | | |
 | 18 B | [프렌즈4블록 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | | | | 🔥 | 📖 | | | | | |
 | 18 B | [뉴스 클러스터링 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | | | | 🔥 | 📖 | | | | | |
@@ -247,7 +247,7 @@
 | 18 B | [셔틀버스 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | | | | | 📖 | | | | | |
 | 18 B | [추석 트래픽 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/17676) | | | | | 📖 | | | | | |
 | 18 B | [자동완성 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/17685) | | | | | 📖 | | | | | |
-| 19 B | [실패율 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | | | | 🔥 | 📖 | | | | | |
+| 19 B | [실패율 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | | | | 🔥 | 📖 | | | | | 🔥 |
 | 19 B | [후보키 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | | | | 🔥 | 📖 | | | | | |
 | 19 B | [오픈채팅방 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | | | | 🔥 | 📖 | | | | | |
 | 19 B | [매칭 점수 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/42893) | | | | | 📖 | | | | | |
@@ -275,7 +275,7 @@
 | 22 B | [사라지는 발판 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/92345) | | | | | 📖 | | | | | |
 | 22 B | [파괴되지 않은 건물 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | | | | | 📖 | | | | | |
 | 22 B | [양과 늑대 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | | | | | 📖 | | | | | |
-| 23 B | [개인정보 수집 유효기간 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | | 🔥 | | 🔥 | 📖 | | | | | |
+| 23 B | [개인정보 수집 유효기간 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | | 🔥 | | 🔥 | 📖 | | | | | 🔥 |
 | 23 B | [택배 배달과 수거하기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | | | | 🔥 | 📖 | | | | | |
 | 23 B | [이모티콘 할인행사 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | | | | 🔥 | 📖 | | | | | |
 | 23 B | [표현 가능한 이진트리 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/150367) | | | | | 📖 | | | | | |
