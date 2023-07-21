@@ -16,7 +16,7 @@
 | [시험 감독](https://www.acmicpc.net/problem/13458) | 🔥 | 🔥 | | 📖 | | | 🔥 | | |
 | [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) | 🔥 | 🔥 | | 📖 | | | 🔥 | 🔥 | 🔥 |
 | [기상캐스터](https://www.acmicpc.net/problem/10709) | | 🔥 | 🔥 | 📖 | | | 🔥 | 🔥 | 🔥 |
-| [분수 찾기](https://www.acmicpc.net/problem/1193) | 🔥 | 🔥 | | 📖 | | | | | 🔥 |
+| [분수 찾기](https://www.acmicpc.net/problem/1193) | 🔥 | 🔥 | | 📖 | | | 🔥 | | 🔥 |
 | [손익분기점](https://www.acmicpc.net/problem/1712) | 🔥 | 🔥 | 🔥| 📖 | | | | 🔥 | 🔥 |
 | [공](https://www.acmicpc.net/problem/1547) | 🔥 | 🔥 | 🔥 | 📖 | | | | | 🔥 |
 | [ATM](https://www.acmicpc.net/problem/11399) | 🔥 | 🔥 | 🔥 | 📖 | | | | 🔥 | 🔥 |
@@ -24,7 +24,7 @@
 | [나이순 정렬](https://www.acmicpc.net/problem/10814) | | 🔥 | | 📖 | | 🔥 | | 🔥 | 🔥 |
 | [카드 놓기](https://www.acmicpc.net/problem/5568) | | 🔥 | | 📖 | | | | 🔥 | |
 | [소트 인사이드](https://www.acmicpc.net/problem/1427) | 🔥 | 🔥 | | 📖 | | | | 🔥 | 🔥 |
-| [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | | 🔥 | | 📖 | | | | 🔥 | 🔥 |
+| [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | | 🔥 | | 📖 | | 🔥 | | 🔥 | 🔥 |
 | [좌표 압축](https://www.acmicpc.net/problem/18870) | | | | 📖 | | | | | |
 | [진법 변환](https://www.acmicpc.net/problem/2745) | | | | 📖 | | | | | |
 | [진법 변환2](https://www.acmicpc.net/problem/11005) | | | | 📖 | | | | | |
@@ -46,7 +46,7 @@
 | 풀어보기 | Sunny | Jimin | 남졍 | 📖 | Kendrick | Dana | Ivy | Muzy | 조제 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🔥 | 🔥 | | 📖 | | 🔥 | 🔥 | 🔥 | |
-| [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 🔥 | 🔥 | | 📖 | | 🔥 | | 🔥 | 🔥 |
+| [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 🔥 | 🔥 | | 📖 | | 🔥 | 🔥 | 🔥 | 🔥 |
 | [미로 탐색](https://www.acmicpc.net/problem/2178) | 🔥 | 🔥 | | 📖 | | | | 🔥 | 🔥 |
 | [유기농 배추](https://www.acmicpc.net/problem/1012) | 🔥 | 🔥 | | 📖 | | 🔥 | | 🔥 | 🔥 |
 | [보물섬](https://www.acmicpc.net/problem/2589) | | | | 📖 | | | | 🔥 | |
@@ -91,7 +91,7 @@
 | [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) | | 🔥 | | 📖 | | | | 🔥 | |
 | [설탕 배달](https://www.acmicpc.net/problem/2839) | 🔥 | 🔥 | | 📖 | | 🔥 | | 🔥 | |
 | [블랙잭](https://www.acmicpc.net/problem/2798) | 🔥 | 🔥 | | 📖 | 🔥 | 🔥 | | 🔥 | |
-| [분해합](https://www.acmicpc.net/problem/2231) | 🔥 | 🔥 | | 📖 | 🔥 | | | 🔥 | |
+| [분해합](https://www.acmicpc.net/problem/2231) | 🔥 | 🔥 | | 📖 | 🔥 | 🔥 | | 🔥 | |
 | [덩치](https://www.acmicpc.net/problem/7568) | | | | 📖 | | 🔥 | | | |
 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 🔥 | 🔥 | | 📖 | | | | | |
@@ -117,7 +117,7 @@
 | [피보나치 수 1](https://www.acmicpc.net/problem/24416) | | | | 📖 | 🔥 | | | | |
 | [파스칼의 삼각형](https://www.acmicpc.net/problem/16395) | 🔥 | 🔥 | | 📖 | 🔥 | | | | |
 | [01타일](https://www.acmicpc.net/problem/1904) | | | | 📖 | | | | | |
-| [1로 만들기](https://www.acmicpc.net/problem/1463) | 🔥 | 🔥 | | 📖 | | | | | |
+| [1로 만들기](https://www.acmicpc.net/problem/1463) | 🔥 | 🔥 | | 📖 | 🔥 | | | | |
 | [신나는 함수 실행](https://www.acmicpc.net/problem/9184) | | | | 📖 | | | | | |
 | [파도반 수열](https://www.acmicpc.net/problem/9461) | | 🔥 | | 📖 | | | | 🔥 | |
 | [연속합](https://www.acmicpc.net/problem/1912) | | 🔥 | | 📖 | | | | | |
@@ -140,7 +140,7 @@
 ## 🍎 BOJ - Prefix Sum
 | 풀어보기 | Sunny | Jimin | 남졍 | 📖 | Kendrick | Dana | Ivy | Muzy | 조제 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [수열](https://www.acmicpc.net/problem/2559) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
+| [수열](https://www.acmicpc.net/problem/2559) | 🔥 | 🔥 | | 📖 | 🔥 | | | 🔥 | |
 | [구간 합 구하기4](https://www.acmicpc.net/problem/11659) | | | | 📖 | | | | | |
 | [구간 합 구하기5](https://www.acmicpc.net/problem/11660) | | | | 📖 | | | | | |
 | [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | | | | 📖 | | | | | |
