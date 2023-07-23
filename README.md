@@ -73,7 +73,7 @@
 | [불!](https://www.acmicpc.net/problem/4179) | | | | 📖 | | | | 🔥 | |
 | [뮤탈리스크](https://www.acmicpc.net/problem/12869) | | | | 📖 | | | | | |
 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | | 🔥 | | 📖 | | | | 🔥 | |
-| [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | | 🔥 | | 📖 | | | | | |
+| [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | | 🔥 | | 📖 | | | | 🔥 | |
 | [컴백홈](https://www.acmicpc.net/problem/1189) | | | | 📖 | | | | | |
 | [거짓말](https://www.acmicpc.net/problem/1043) | | | | 📖 | | | | | |
 | [알파벳](https://www.acmicpc.net/problem/1987) | | | | 📖 | | | | | |
@@ -124,7 +124,7 @@
 | [1로 만들기 2](https://www.acmicpc.net/problem/12852) | | | | 📖 | | | | | |
 | [퇴사](https://www.acmicpc.net/problem/14501) | 🔥 | | | 📖 | | | | | |
 | [계단 오르기](https://www.acmicpc.net/problem/2579) | | 🔥 | | 📖 | | | | | |
-| [RGB거리](https://www.acmicpc.net/problem/1149) | | | | 📖 | | | | | |
+| [RGB거리](https://www.acmicpc.net/problem/1149) | | | | 📖 | | | | 🔥 | |
 | [RGB거리2](https://www.acmicpc.net/problem/17404) | | | | 📖 | | | | | |
 
 ## 🍎 BOJ - Binary Search
