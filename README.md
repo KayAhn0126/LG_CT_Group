@@ -28,7 +28,7 @@
 | [좌표 압축](https://www.acmicpc.net/problem/18870) | | | | 📖 | | | | | |
 | [진법 변환](https://www.acmicpc.net/problem/2745) | | | | 📖 | | | | | |
 | [진법 변환2](https://www.acmicpc.net/problem/11005) | | | | 📖 | | | | | |
-| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | 🔥 | 🔥 | | 📖 | | | | 🔥 | 🔥 |
+| [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | 🔥 | 🔥 | | 📖 | | | 🔥 | 🔥 | 🔥 |
 | [빈도 정렬](https://www.acmicpc.net/problem/2910) | | | | 📖 | | | | | |
 | [수학 숙제](https://www.acmicpc.net/problem/2870) | | 🔥 | | 📖 | | | | 🔥 | |
 | [NBA 농구](https://www.acmicpc.net/problem/2852) | 🔥 | 🔥 | | 📖 | | | | | |
@@ -53,7 +53,7 @@
 | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | | | | 📖 | | | | | |
 | [바이러스](https://www.acmicpc.net/problem/2606) | 🔥 | 🔥 | | 📖 | | 🔥 | | 🔥 | |
 | [음식물 피하기](https://www.acmicpc.net/problem/1743) | | | | 📖 | | | | 🔥 | |
-| [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479) | | | | 📖 | | | | 🔥 | |
+| [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479) | | | | 📖 | | | 🔥 | 🔥 | |
 | [알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480) | | | | 📖 | | 🔥 | | 🔥 | |
 | [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) | | | | 📖 | | | | 🔥 | |
 | [알고리즘 수업 - 너비 우선 탐색 2](https://www.acmicpc.net/problem/24445) | | | | 📖 | | | | 🔥 | |
@@ -88,7 +88,7 @@
 ## 🍎 BOJ - 브루트포스
 | 풀어보기 | Sunny | Jimin | 남졍 | 📖 | Kendrick | Dana | Ivy | Muzy | 조제 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) | | 🔥 | | 📖 | | | | 🔥 | |
+| [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) | | 🔥 | | 📖 | | | 🔥 | 🔥 | |
 | [설탕 배달](https://www.acmicpc.net/problem/2839) | 🔥 | 🔥 | | 📖 | | 🔥 | | 🔥 | |
 | [블랙잭](https://www.acmicpc.net/problem/2798) | 🔥 | 🔥 | | 📖 | 🔥 | 🔥 | | 🔥 | |
 | [분해합](https://www.acmicpc.net/problem/2231) | 🔥 | 🔥 | | 📖 | 🔥 | 🔥 | | 🔥 | |
