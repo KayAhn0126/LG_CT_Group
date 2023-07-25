@@ -47,9 +47,9 @@
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 🔥 | 🔥 | | 📖 | | 🔥 | 🔥 | 🔥 | |
 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 🔥 | 🔥 | | 📖 | | 🔥 | 🔥 | 🔥 | 🔥 |
-| [미로 탐색](https://www.acmicpc.net/problem/2178) | 🔥 | 🔥 | | 📖 | | | | 🔥 | 🔥 |
-| [유기농 배추](https://www.acmicpc.net/problem/1012) | 🔥 | 🔥 | | 📖 | | 🔥 | | 🔥 | 🔥 |
-| [보물섬](https://www.acmicpc.net/problem/2589) | | | | 📖 | | | | 🔥 | |
+| [미로 탐색](https://www.acmicpc.net/problem/2178) | 🔥 | 🔥 | | 📖 | | | 🔥 | 🔥 | 🔥 |
+| [유기농 배추](https://www.acmicpc.net/problem/1012) | 🔥 | 🔥 | | 📖 | | 🔥 | 🔥 | 🔥 | 🔥 |
+| [보물섬](https://www.acmicpc.net/problem/2589) | | | | 📖 | | | 🔥 | 🔥 | |
 | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | | | | 📖 | | | | | |
 | [바이러스](https://www.acmicpc.net/problem/2606) | 🔥 | 🔥 | | 📖 | | 🔥 | | 🔥 | |
 | [음식물 피하기](https://www.acmicpc.net/problem/1743) | | | | 📖 | | | | 🔥 | |
@@ -105,7 +105,7 @@
 | 풀어보기 | Sunny | Jimin | 남졍 | 📖 | Kendrick | Dana | Ivy | Muzy | 조제 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [회의실 배정](https://www.acmicpc.net/problem/1931) | 🔥 | | | 📖 | | | 🔥 | 🔥 | |
-| [A와 B](https://www.acmicpc.net/problem/12904) | | | | 📖 | | | | | |
+| [A와 B](https://www.acmicpc.net/problem/12904) | | | | 📖 | | | 🔥 | | |
 | [사과 담기 게임](https://www.acmicpc.net/problem/2828) | 🔥 | 🔥 | | 📖 | | | | | |
 | [선 긋기](https://www.acmicpc.net/problem/2170) | | | | 📖 | | | | 🔥 | |
 | [오큰수](https://www.acmicpc.net/problem/17298) | | | | 📖 | | | | 🔥 | |
@@ -218,7 +218,7 @@
 | 19 WI | [크레인 인형뽑기 게임 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | 🔥 | | | 🔥 | 📖 | | | | 🔥 | 🔥 |
 | 19 WI | [튜플 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | 🔥 | | | 🔥 | 📖 | | | 🔥 | | 🔥 |
 | 19 WI | [불량 사용자 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | | | | 🔥 | 📖 | | | | | |
-| 19 WI | [징검다리 건너기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | | | | | 📖 | | | | | |
+| 19 WI | [징검다리 건너기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | | | | 🔥 | 📖 | | | | | |
 | 19 WI | [호텔 방 배정 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/64063) | | | | | 📖 | | | | | |
 | 20 I | [키패드 누르기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | | | | 🔥 | 📖 | | | | | |
 | 20 I | [수식 최대화 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | | | | 🔥 | 📖 | | | | | |
