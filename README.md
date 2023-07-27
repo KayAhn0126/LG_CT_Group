@@ -32,7 +32,7 @@
 | [빈도 정렬](https://www.acmicpc.net/problem/2910) | | | | 📖 | | | | | |
 | [수학 숙제](https://www.acmicpc.net/problem/2870) | | 🔥 | | 📖 | | | | 🔥 | |
 | [NBA 농구](https://www.acmicpc.net/problem/2852) | 🔥 | 🔥 | | 📖 | | | | | |
-| [통계학](https://www.acmicpc.net/problem/2108) | | | | 📖 | | 🔥 | | | 🔥 |
+| [통계학](https://www.acmicpc.net/problem/2108) | | | | 📖 | | 🔥 | | 🔥 | 🔥 |
 | [MVP다이아몬드(Easy)](https://www.acmicpc.net/problem/20413) | | | | 📖 | | | | 🔥 | |
 | [로봇청소기](https://www.acmicpc.net/problem/14503) | | 🔥 | | 📖 | | | | 🔥 | |
 | [톱니바퀴](https://www.acmicpc.net/problem/14891) | | | | 📖 | | | | | |
@@ -57,7 +57,7 @@
 | [알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480) | | | | 📖 | | 🔥 | 🔥 | 🔥 | |
 | [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) | | | | 📖 | | | | 🔥 | |
 | [알고리즘 수업 - 너비 우선 탐색 2](https://www.acmicpc.net/problem/24445) | | | | 📖 | | | | 🔥 | |
-| [안전영역](https://www.acmicpc.net/problem/2468) | 🔥 | 🔥 | | 📖 | | | | | |
+| [안전영역](https://www.acmicpc.net/problem/2468) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
 | [영역 구하기](https://www.acmicpc.net/problem/2583) | | | | 📖 | | | | | |
 | [촌수계산](https://www.acmicpc.net/problem/2644) | 🔥 | 🔥 | | 📖 | | | | | |
 | [스타트링크](https://www.acmicpc.net/problem/5014) | 🔥 | 🔥 | | 📖 | | | | | |
