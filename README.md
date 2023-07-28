@@ -55,14 +55,14 @@
 | [음식물 피하기](https://www.acmicpc.net/problem/1743) | | | | 📖 | | | 🔥 | 🔥 | |
 | [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479) | | | | 📖 | | | 🔥 | 🔥 | |
 | [알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480) | | | | 📖 | | 🔥 | 🔥 | 🔥 | |
-| [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) | | | | 📖 | | | | 🔥 | |
+| [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) | | | | 📖 | | | 🔥 | 🔥 | |
 | [알고리즘 수업 - 너비 우선 탐색 2](https://www.acmicpc.net/problem/24445) | | | | 📖 | | | | 🔥 | |
 | [안전영역](https://www.acmicpc.net/problem/2468) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
 | [영역 구하기](https://www.acmicpc.net/problem/2583) | | | | 📖 | | | | | |
 | [촌수계산](https://www.acmicpc.net/problem/2644) | 🔥 | 🔥 | | 📖 | | | | | |
 | [스타트링크](https://www.acmicpc.net/problem/5014) | 🔥 | 🔥 | | 📖 | | | | | |
 | [적록색약](https://www.acmicpc.net/problem/10026) | | | | 📖 | | | | 🔥 | |
-| [토마토](https://www.acmicpc.net/problem/7576) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
+| [토마토](https://www.acmicpc.net/problem/7576) | 🔥 | 🔥 | | 📖 | | | 🔥 | 🔥 | |
 | [토마토 with 3차원배열](https://www.acmicpc.net/problem/7569) | 🔥 | 🔥 | | 📖 | | | | | |
 | [연구소](https://www.acmicpc.net/problem/14502) | | | | 📖 | | | | 🔥 | |
 | [연구소 2](https://www.acmicpc.net/problem/17141) | | | | 📖 | | | | 🔥 | |
