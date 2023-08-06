@@ -1,5 +1,4 @@
 # LG_CT_Group
-<img src = './cutefriend.png' height = 300>
 
 ## 🍎 BOJ - 구현
 | 풀어보기 | Sunny | Jimin | 남졍 | 📖 | Kendrick | Dana | Ivy | Muzy | 조제 |
@@ -19,21 +18,21 @@
 | [분수 찾기](https://www.acmicpc.net/problem/1193) | 🔥 | 🔥 | | 📖 | | | 🔥 | | 🔥 |
 | [손익분기점](https://www.acmicpc.net/problem/1712) | 🔥 | 🔥 | 🔥| 📖 | | | 🔥 | 🔥 | 🔥 |
 | [공](https://www.acmicpc.net/problem/1547) | 🔥 | 🔥 | 🔥 | 📖 | | | | | 🔥 |
-| [ATM](https://www.acmicpc.net/problem/11399) | 🔥 | 🔥 | 🔥 | 📖 | | | | 🔥 | 🔥 |
-| [단어 정렬](https://www.acmicpc.net/problem/1181) | 🔥 | 🔥 | | 📖 | | | | 🔥 | 🔥 |
+| [ATM](https://www.acmicpc.net/problem/11399) | 🔥 | 🔥 | 🔥 | 📖 | | | 🔥 | 🔥 | 🔥 |
+| [단어 정렬](https://www.acmicpc.net/problem/1181) | 🔥 | 🔥 | | 📖 | | | 🔥 | 🔥 | 🔥 |
 | [나이순 정렬](https://www.acmicpc.net/problem/10814) | 🔥 | 🔥 | | 📖 | | 🔥 | 🔥 | 🔥 | 🔥 |
 | [카드 놓기](https://www.acmicpc.net/problem/5568) | | 🔥 | | 📖 | | | 🔥 | 🔥 | |
-| [소트 인사이드](https://www.acmicpc.net/problem/1427) | 🔥 | 🔥 | | 📖 | | | | 🔥 | 🔥 |
+| [소트 인사이드](https://www.acmicpc.net/problem/1427) | 🔥 | 🔥 | | 📖 | | | 🔥 | 🔥 | 🔥 |
 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | | 🔥 | | 📖 | | 🔥 | | 🔥 | 🔥 |
 | [좌표 압축](https://www.acmicpc.net/problem/18870) | | | | 📖 | | | | | |
-| [진법 변환](https://www.acmicpc.net/problem/2745) | | | | 📖 | | | | | |
+| [진법 변환](https://www.acmicpc.net/problem/2745) | | | | 📖 | | | 🔥 | | |
 | [진법 변환2](https://www.acmicpc.net/problem/11005) | | | | 📖 | | | | | |
 | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | 🔥 | 🔥 | | 📖 | | | 🔥 | 🔥 | 🔥 |
 | [빈도 정렬](https://www.acmicpc.net/problem/2910) | | | | 📖 | | | | | |
-| [수학 숙제](https://www.acmicpc.net/problem/2870) | | 🔥 | | 📖 | | | | 🔥 | |
+| [수학 숙제](https://www.acmicpc.net/problem/2870) | | 🔥 | | 📖 | | | 🔥 | 🔥 | |
 | [NBA 농구](https://www.acmicpc.net/problem/2852) | 🔥 | 🔥 | | 📖 | | | | | |
-| [통계학](https://www.acmicpc.net/problem/2108) | | | | 📖 | | 🔥 | | 🔥 | 🔥 |
-| [MVP다이아몬드(Easy)](https://www.acmicpc.net/problem/20413) | | | | 📖 | | | | 🔥 | |
+| [통계학](https://www.acmicpc.net/problem/2108) | | | | 📖 | | 🔥 | 🔥 | 🔥 | 🔥 |
+| [MVP다이아몬드(Easy)](https://www.acmicpc.net/problem/20413) | | | | 📖 | | | 🔥 | 🔥 | |
 | [로봇청소기](https://www.acmicpc.net/problem/14503) | | 🔥 | | 📖 | | | | 🔥 | |
 | [톱니바퀴](https://www.acmicpc.net/problem/14891) | | | | 📖 | | | | | |
 | [톱니바퀴2](https://www.acmicpc.net/problem/15662) | | | | 📖 | | | | | |
@@ -58,7 +57,7 @@
 | [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) | | | | 📖 | | | 🔥 | 🔥 | |
 | [알고리즘 수업 - 너비 우선 탐색 2](https://www.acmicpc.net/problem/24445) | | | | 📖 | | | | 🔥 | |
 | [안전영역](https://www.acmicpc.net/problem/2468) | 🔥 | 🔥 | | 📖 | | | | 🔥 | |
-| [영역 구하기](https://www.acmicpc.net/problem/2583) | | | | 📖 | | | | | |
+| [영역 구하기](https://www.acmicpc.net/problem/2583) | | | | 📖 | | | | 🔥 | |
 | [촌수계산](https://www.acmicpc.net/problem/2644) | 🔥 | 🔥 | | 📖 | | | | | |
 | [스타트링크](https://www.acmicpc.net/problem/5014) | 🔥 | 🔥 | | 📖 | | | | | |
 | [적록색약](https://www.acmicpc.net/problem/10026) | | | | 📖 | | | | 🔥 | |
