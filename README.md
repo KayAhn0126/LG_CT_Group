@@ -172,11 +172,11 @@
 | 20 I | [키패드 누르기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | | 🔥 | | | | | | |
 | 20 I | [수식 최대화 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | | 🔥 | | | | | |
 | 20 I | [보석 쇼핑 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | | | | | | | |
-| 20 I | [경주로 건설 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | | | | | | | |
+| 20 I | [경주로 건설 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | | 🔥 | | | | | |
 | 20 I | [동굴 탐험 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/67260) | | | | | | | |
 | 21 GI | [숫자 문자열과 영단어 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | | 🔥 | | | | | 🔥 |
 | 21 GI | [거리두기 확인하기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | | 🔥 | | | | | |
-| 21 GI | [표 편집 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/81303) | | | | | | | |
+| 21 GI | [표 편집 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/81303) | | 🔥 | | | | | |
 | 21 GI | [미로 탈출 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/81304) | | | | | | | |
 | 21 GI | [시험장 나누기 LV5](https://school.programmers.co.kr/learn/courses/30/lessons/81305) | | | | | | | |
 | 22 I | [성격 유형 검사하기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | | 🔥 | | | | | 🔥 |
