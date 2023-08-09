@@ -124,7 +124,7 @@
 | [퇴사](https://www.acmicpc.net/problem/14501) | | | | | | |
 | [계단 오르기](https://www.acmicpc.net/problem/2579) | | | | | | |
 | [RGB거리](https://www.acmicpc.net/problem/1149) | | | | | 🔥 | |
-| [RGB거리2](https://www.acmicpc.net/problem/17404) | | | | | | |
+| [RGB거리2](https://www.acmicpc.net/problem/17404) | | | | | 🔥 | |
 
 ## 🍎 BOJ - Binary Search
 | 풀어보기 | 남졍 | Kendrick | Dana | Ivy | Muzy | 조제 |
@@ -140,8 +140,8 @@
 | 풀어보기 | 남졍 | Kendrick | Dana | Ivy | Muzy | 조제 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | [수열](https://www.acmicpc.net/problem/2559) | | 🔥 | | | 🔥 | |
-| [구간 합 구하기4](https://www.acmicpc.net/problem/11659) | | | | | | |
-| [구간 합 구하기5](https://www.acmicpc.net/problem/11660) | | | | | | |
+| [구간 합 구하기4](https://www.acmicpc.net/problem/11659) | | | | | 🔥 | |
+| [구간 합 구하기5](https://www.acmicpc.net/problem/11660) | | | | | 🔥 | |
 | [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) | | | | | | |
 
 ## 🍎 BOJ - Recursion
