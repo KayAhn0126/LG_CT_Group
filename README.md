@@ -11,7 +11,7 @@
 | [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996) | | | | 🔥 | | 🔥 |
 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | | 🔥 | | 🔥 | 🔥 | |
 | [좋은 단어](https://www.acmicpc.net/problem/3986) | | 🔥 | | 🔥 | 🔥 | |
-| [벌집](https://www.acmicpc.net/problem/2292) | | | | 🔥 | | 🔥 |
+| [벌집](https://www.acmicpc.net/problem/2292) | 🔥 | | | 🔥 | | 🔥 |
 | [시험 감독](https://www.acmicpc.net/problem/13458) | | | | 🔥 | | |
 | [비밀번호 발음하기](https://www.acmicpc.net/problem/4659) | | | | 🔥 | 🔥 | 🔥 |
 | [기상캐스터](https://www.acmicpc.net/problem/10709) | 🔥 | | | 🔥 | 🔥 | 🔥 |
