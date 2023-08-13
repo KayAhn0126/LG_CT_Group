@@ -65,7 +65,7 @@
 | [토마토 with 3차원배열](https://www.acmicpc.net/problem/7569) | | | | | | |
 | [연구소](https://www.acmicpc.net/problem/14502) | | | | | 🔥 | |
 | [연구소 2](https://www.acmicpc.net/problem/17141) | | | | | 🔥 | |
-| [숨바꼭질](https://www.acmicpc.net/problem/1697) | | | | | | |
+| [숨바꼭질](https://www.acmicpc.net/problem/1697) | | | | | | 🔥 |
 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | | | | | | |
 | [치즈](https://www.acmicpc.net/problem/2636) | | | | | 🔥 | |
 | [인구이동](https://www.acmicpc.net/problem/16234) | | | | | 🔥 | |
