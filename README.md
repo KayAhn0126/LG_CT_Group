@@ -162,7 +162,7 @@
 - GI : 채용연계형 인턴십
 - B : 블라인드
 
-| 연도| 풀어보기 | 남졍 | 케이 | Kendrick | Dana | Ivy | Muzy | 조제 |
+| 연도 | 풀어보기 | 남졍 | 케이 | Kendrick | Dana | Ivy | Muzy | 조제 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 19 WI | [크레인 인형뽑기 게임 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | | 🔥 | | | | 🔥 | 🔥 |
 | 19 WI | [튜플 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | | 🔥 | | | 🔥 | | 🔥 |
@@ -171,7 +171,7 @@
 | 19 WI | [호텔 방 배정 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/64063) | | | | | | | |
 | 20 I | [키패드 누르기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | | 🔥 | | | | | | |
 | 20 I | [수식 최대화 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | | 🔥 | | | | | |
-| 20 I | [보석 쇼핑 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | | | | | | | |
+| 20 I | [보석 쇼핑 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | | 🔥 | | | | | |
 | 20 I | [경주로 건설 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | | 🔥 | | | | | |
 | 20 I | [동굴 탐험 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/67260) | | | | | | | |
 | 21 GI | [숫자 문자열과 영단어 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | | 🔥 | | | | | 🔥 |
