@@ -87,9 +87,9 @@
 ## 🍎 BOJ - 브루트포스
 | 풀어보기 | 남졍 | Kendrick | Dana | Ivy | Muzy | 조제 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) | | | | 🔥 | 🔥 | |
-| [설탕 배달](https://www.acmicpc.net/problem/2839) | | | 🔥 | | 🔥 | |
-| [블랙잭](https://www.acmicpc.net/problem/2798) | | 🔥 | 🔥 | | 🔥 | |
+| [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) | 🔥 | | | 🔥 | 🔥 | |
+| [설탕 배달](https://www.acmicpc.net/problem/2839) | 🔥 | | 🔥 | | 🔥 | |
+| [블랙잭](https://www.acmicpc.net/problem/2798) | 🔥 | 🔥 | 🔥 | | 🔥 | |
 | [분해합](https://www.acmicpc.net/problem/2231) | | 🔥 | 🔥 | | 🔥 | |
 | [덩치](https://www.acmicpc.net/problem/7568) | | | 🔥 | | | |
 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | | | | | 🔥 | |
