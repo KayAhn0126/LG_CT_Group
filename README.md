@@ -90,9 +90,9 @@
 | [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) | 🔥 | | | 🔥 | 🔥 | |
 | [설탕 배달](https://www.acmicpc.net/problem/2839) | 🔥 | | 🔥 | | 🔥 | |
 | [블랙잭](https://www.acmicpc.net/problem/2798) | 🔥 | 🔥 | 🔥 | | 🔥 | |
-| [분해합](https://www.acmicpc.net/problem/2231) | | 🔥 | 🔥 | | 🔥 | |
-| [덩치](https://www.acmicpc.net/problem/7568) | | | 🔥 | | | |
-| [영화감독 숌](https://www.acmicpc.net/problem/1436) | | | | | 🔥 | |
+| [분해합](https://www.acmicpc.net/problem/2231) | 🔥 | 🔥 | 🔥 | | 🔥 | |
+| [덩치](https://www.acmicpc.net/problem/7568) | 🔥 | | 🔥 | | | |
+| [영화감독 숌](https://www.acmicpc.net/problem/1436) | 🔥 | | | | 🔥 | |
 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | | | | | | |
 | [치킨 배달](https://www.acmicpc.net/problem/15686) | | | | | | |
 | [테트로미노](https://www.acmicpc.net/problem/14500) | | | | | 🔥 | |
