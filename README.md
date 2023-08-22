@@ -58,7 +58,7 @@
 | [알고리즘 수업 - 너비 우선 탐색 2](https://www.acmicpc.net/problem/24445) | | | | | 🔥 | |
 | [안전영역](https://www.acmicpc.net/problem/2468) | | | | | 🔥 | 🔥 |
 | [영역 구하기](https://www.acmicpc.net/problem/2583) | | | | | 🔥 | |
-| [촌수계산](https://www.acmicpc.net/problem/2644) | | | | | | |
+| [촌수계산](https://www.acmicpc.net/problem/2644) | | | | | 🔥 | 🔥 |
 | [스타트링크](https://www.acmicpc.net/problem/5014) | | | | | 🔥 | |
 | [적록색약](https://www.acmicpc.net/problem/10026) | | | | | 🔥 | |
 | [토마토](https://www.acmicpc.net/problem/7576) | | | | 🔥 | 🔥 | |
@@ -153,7 +153,7 @@
 ## 🍎 BOJ - LIS
 | 풀어보기 | 남졍 | Kendrick | Dana | Ivy | Muzy | 조제 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [전깃줄](https://www.acmicpc.net/problem/2565) | | | | | | |
+| [전깃줄](https://www.acmicpc.net/problem/2565) | | | | | 🔥 | |
 
 
 ## 🍎 Programmers Kakao
