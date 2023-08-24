@@ -215,7 +215,7 @@
 | 21 B | [메뉴 리뉴얼 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | | 🔥 | | | | | |
 | 21 B | [카드 짝 맞추기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/72415) | | | | | | | |
 | 21 B | [광고 삽입 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/72414) | | | | | | | |
-| 21 B | [합승 택시 요금 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | | | | | | | |
+| 21 B | [합승 택시 요금 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | | 🔥 | | | | | |
 | 21 B | [매출 하락 최소화 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/72416) | | | | | | | |
 | 22 B | [신고 결과 받기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | | 🔥 | | | | | |
 | 22 B | [주차 요금 계산 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | | 🔥 | | | | | |
