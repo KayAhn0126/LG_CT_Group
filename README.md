@@ -193,7 +193,7 @@
 | 18 B | [파일명 정렬 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | | 🔥 | | | | | |
 | 18 B | [압축 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | | 🔥 | | | | | |
 | 18 B | [방금그곡 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | | 🔥 | | | | | |
-| 18 B | [셔틀버스 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | | | | | | | |
+| 18 B | [셔틀버스 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | | 🔥 | | | | | |
 | 18 B | [추석 트래픽 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/17676) | | | | | | | |
 | 18 B | [자동완성 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/17685) | | | | | | | |
 | 19 B | [실패율 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | | 🔥 | | | | | 🔥 |
