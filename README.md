@@ -147,7 +147,7 @@
 ## 🍎 BOJ - Recursion
 | 풀어보기 | 남졍 | Kendrick | Dana | Ivy | Muzy | 조제 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [쿼드트리](https://www.acmicpc.net/problem/1992) | | | | | | |
+| [쿼드트리](https://www.acmicpc.net/problem/1992) | | | | | | 🔥 |
 | [종이의 개수](https://www.acmicpc.net/problem/1780) | | | | | | |
 
 ## 🍎 BOJ - LIS
