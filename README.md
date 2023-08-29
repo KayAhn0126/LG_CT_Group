@@ -77,7 +77,7 @@
 | [거짓말](https://www.acmicpc.net/problem/1043) | | | | | | |
 | [알파벳](https://www.acmicpc.net/problem/1987) | | | | | | |
 | [빙산](https://www.acmicpc.net/problem/2573) | | | | | 🔥 | 🔥 |
-| [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | | | | | | |
+| [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | | | | | | 🔥 |
 | [주난의 난](https://www.acmicpc.net/problem/14497) | | | | | | |
 | [백조의호수](https://www.acmicpc.net/problem/3197) | | | | | 🔥 | |
 | [연구소 3](https://www.acmicpc.net/problem/17142) | | | | | | |
