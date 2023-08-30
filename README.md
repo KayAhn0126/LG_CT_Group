@@ -26,7 +26,7 @@
 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | 🔥 | | 🔥 | 🔥 | 🔥 | 🔥 |
 | [좌표 압축](https://www.acmicpc.net/problem/18870) | | 🔥 | | 🔥 | | |
 | [진법 변환](https://www.acmicpc.net/problem/2745) | | | | 🔥 | | |
-| [진법 변환2](https://www.acmicpc.net/problem/11005) | | | | | | |
+| [진법 변환2](https://www.acmicpc.net/problem/11005) | | | | 🔥 | | |
 | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | | | | 🔥 | 🔥 | 🔥 |
 | [빈도 정렬](https://www.acmicpc.net/problem/2910) | | | | 🔥 | | |
 | [수학 숙제](https://www.acmicpc.net/problem/2870) | | | | 🔥 | 🔥 | |
