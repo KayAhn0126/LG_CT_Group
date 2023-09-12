@@ -72,7 +72,7 @@
 | [불!](https://www.acmicpc.net/problem/4179) | | | | | 🔥 | 🔥 |
 | [뮤탈리스크](https://www.acmicpc.net/problem/12869) | | | | | | |
 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | | | | | 🔥 | 🔥 |
-| [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | | | | | 🔥 | |
+| [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | | | | | 🔥 | 🔥 |
 | [컴백홈](https://www.acmicpc.net/problem/1189) | | | | | | |
 | [거짓말](https://www.acmicpc.net/problem/1043) | | | | | | |
 | [알파벳](https://www.acmicpc.net/problem/1987) | | | | | | |
