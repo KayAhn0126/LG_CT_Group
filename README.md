@@ -94,7 +94,7 @@
 | [덩치](https://www.acmicpc.net/problem/7568) | 🔥 | | 🔥 | | | |
 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | 🔥 | | | | 🔥 | |
 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | | | | | | |
-| [치킨 배달](https://www.acmicpc.net/problem/15686) | | | | | | |
+| [치킨 배달](https://www.acmicpc.net/problem/15686) | | | | | 🔥 | |
 | [테트로미노](https://www.acmicpc.net/problem/14500) | | | | | 🔥 | |
 | [리모컨](https://www.acmicpc.net/problem/1107) | | | | | | |
 | [마인크래프트](https://www.acmicpc.net/problem/18111) | | | | | | |
