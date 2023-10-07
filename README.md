@@ -75,7 +75,7 @@
 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | | | | | 🔥 | 🔥 |
 | [컴백홈](https://www.acmicpc.net/problem/1189) | | | | | | |
 | [거짓말](https://www.acmicpc.net/problem/1043) | | | | | | |
-| [알파벳](https://www.acmicpc.net/problem/1987) | | | | | | |
+| [알파벳](https://www.acmicpc.net/problem/1987) | | | | | 🔥 | |
 | [빙산](https://www.acmicpc.net/problem/2573) | | | | | 🔥 | 🔥 |
 | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | | | | | | 🔥 |
 | [주난의 난](https://www.acmicpc.net/problem/14497) | | | | | | |
