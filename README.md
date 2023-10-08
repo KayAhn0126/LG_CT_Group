@@ -187,7 +187,7 @@
 | 18 B | [다트게임 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | | 🔥 | | | | | 🔥 |
 | 18 B | [비밀 지도 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | | 🔥 | | | | | 🔥 |
 | 18 B | [캐시 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | | 🔥 | | | | | |
-| 18 B | [프렌즈4블록 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | | 🔥 | | | | | |
+| 18 B | [프렌즈4블록 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | | 🔥 | | | | 🔥 | |
 | 18 B | [뉴스 클러스터링 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | | 🔥 | | | | | |
 | 18 B | [n진수 게임 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | | 🔥 | | | | | |
 | 18 B | [파일명 정렬 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | | 🔥 | | | | | |
