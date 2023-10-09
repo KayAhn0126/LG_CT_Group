@@ -171,10 +171,10 @@
 | 19 WI | [호텔 방 배정 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/64063) | | | | | | | |
 | 20 I | [키패드 누르기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | | 🔥 | | | | | | |
 | 20 I | [수식 최대화 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | | 🔥 | | | | | |
-| 20 I | [보석 쇼핑 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | | 🔥 | | | | | |
+| 20 I | [보석 쇼핑 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | | 🔥 | | | | 🔥 | |
 | 20 I | [경주로 건설 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | | 🔥 | | | | | |
 | 20 I | [동굴 탐험 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/67260) | | | | | | | |
-| 21 GI | [숫자 문자열과 영단어 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | | 🔥 | | | | | 🔥 |
+| 21 GI | [숫자 문자열과 영단어 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | | 🔥 | | | | 🔥 | 🔥 |
 | 21 GI | [거리두기 확인하기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | | 🔥 | | | | | |
 | 21 GI | [표 편집 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/81303) | | 🔥 | | | | | |
 | 21 GI | [미로 탈출 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/81304) | | | | | | | |
@@ -185,7 +185,7 @@
 | 22 I | [코딩 테스트 공부 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/118668) | | 🔥 | | | | | |
 | 22 I | [행렬과 연산 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/118670) | | | | | | | |
 | 18 B | [다트게임 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | | 🔥 | | | | | 🔥 |
-| 18 B | [비밀 지도 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | | 🔥 | | | | | 🔥 |
+| 18 B | [비밀 지도 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | | 🔥 | | | | 🔥 | 🔥 |
 | 18 B | [캐시 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | | 🔥 | | | | | |
 | 18 B | [프렌즈4블록 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | | 🔥 | | | | 🔥 | |
 | 18 B | [뉴스 클러스터링 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | | 🔥 | | | | | |
@@ -198,7 +198,7 @@
 | 18 B | [자동완성 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/17685) | | | | | | | |
 | 19 B | [실패율 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | | 🔥 | | | | | 🔥 |
 | 19 B | [후보키 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | | 🔥 | | | | | |
-| 19 B | [오픈채팅방 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | | 🔥 | | | | | |
+| 19 B | [오픈채팅방 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | | 🔥 | | | | 🔥 | |
 | 19 B | [매칭 점수 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/42893) | | | | | | | |
 | 19 B | [길 찾기 게임 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | | | | | | | |
 | 19 B | [블록 게임 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/42894) | | | | | | | |
@@ -210,7 +210,7 @@
 | 20 B | [기둥과 보 설치 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/60061) | | | | | | | |
 | 20 B | [자물쇠와 열쇠 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/60059) | | | | | | | |
 | 20 B | [가사 검색 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/60060) | | | | | | | |
-| 21 B | [신규 아이디 추천 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | | 🔥 | | | | | |
+| 21 B | [신규 아이디 추천 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | | 🔥 | | | | 🔥 | |
 | 21 B | [순위 검색 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | | 🔥 | | | | | |
 | 21 B | [메뉴 리뉴얼 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | | 🔥 | | | | | |
 | 21 B | [카드 짝 맞추기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/72415) | | | | | | | |
