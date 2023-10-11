@@ -170,7 +170,7 @@
 | 19 WI | [징검다리 건너기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | | 🔥 | | | | | |
 | 19 WI | [호텔 방 배정 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/64063) | | | | | | | |
 | 20 I | [키패드 누르기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | | 🔥 | | | | | | |
-| 20 I | [수식 최대화 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | | 🔥 | | | | | |
+| 20 I | [수식 최대화 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | | 🔥 | | | | 🔥 | |
 | 20 I | [보석 쇼핑 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | | 🔥 | | | | 🔥 | |
 | 20 I | [경주로 건설 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | | 🔥 | | | | | |
 | 20 I | [동굴 탐험 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/67260) | | | | | | | |
@@ -186,9 +186,9 @@
 | 22 I | [행렬과 연산 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/118670) | | | | | | | |
 | 18 B | [다트게임 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | | 🔥 | | | | | 🔥 |
 | 18 B | [비밀 지도 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | | 🔥 | | | | 🔥 | 🔥 |
-| 18 B | [캐시 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | | 🔥 | | | | | |
+| 18 B | [캐시 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | | 🔥 | | | | 🔥 | |
 | 18 B | [프렌즈4블록 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | | 🔥 | | | | 🔥 | |
-| 18 B | [뉴스 클러스터링 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | | 🔥 | | | | | |
+| 18 B | [뉴스 클러스터링 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | | 🔥 | | | | 🔥 | |
 | 18 B | [n진수 게임 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | | 🔥 | | | | | |
 | 18 B | [파일명 정렬 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | | 🔥 | | | | | |
 | 18 B | [압축 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | | 🔥 | | | | | |
@@ -218,7 +218,7 @@
 | 21 B | [합승 택시 요금 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | | 🔥 | | | | | |
 | 21 B | [매출 하락 최소화 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/72416) | | | | | | | |
 | 22 B | [신고 결과 받기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | | 🔥 | | | | | |
-| 22 B | [주차 요금 계산 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | | 🔥 | | | | | |
+| 22 B | [주차 요금 계산 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | | 🔥 | | | | 🔥 | |
 | 22 B | [k진수에서 소수 개수 구하기 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | | 🔥 | | | | | |
 | 22 B | [양궁대회 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | | 🔥 | | | | | |
 | 22 B | [사라지는 발판 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/92345) | | | | | | | |
