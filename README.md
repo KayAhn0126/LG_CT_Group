@@ -169,7 +169,7 @@
 | 19 WI | [불량 사용자 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | | 🔥 | | | | | |
 | 19 WI | [징검다리 건너기 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | | 🔥 | | | | | |
 | 19 WI | [호텔 방 배정 LV4](https://school.programmers.co.kr/learn/courses/30/lessons/64063) | | | | | | | |
-| 20 I | [키패드 누르기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | | 🔥 | | | | | 🔥 | |
+| 20 I | [키패드 누르기 LV1](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | | 🔥 | | | | 🔥 | | 
 | 20 I | [수식 최대화 LV2](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | | 🔥 | | | | 🔥 | |
 | 20 I | [보석 쇼핑 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | | 🔥 | | | | 🔥 | |
 | 20 I | [경주로 건설 LV3](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | | 🔥 | | | | | |
